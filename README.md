@@ -1,4 +1,4 @@
-# MultiModalGRU
+# RandomWalkClassifier
 A deep neural network for classifying random walk samples that include transitions between several models
 
 This repository contains the entire research I made in the field of time series analysis and stochastic processes classification.
