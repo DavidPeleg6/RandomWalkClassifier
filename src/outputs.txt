@@ -1,0 +1,3662 @@
+walk amount: 4000 walk length: 20 alpha range: (1.1, 3) 
+experiment number: 1 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.003 accuracy: 48.2421875
+Epoch: 2/3 Time in min: 0.002 accuracy: 48.2421875
+Epoch: 3/3 Time in min: 0.002 accuracy: 49.8046875
+loss: 0.028444009833037853 accuracy: 49.8046875
+total time 0.0592994491259257
+experiment number: 1 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 38.57421875
+Epoch: 2/3 Time in min: 0.001 accuracy: 41.9921875
+Epoch: 3/3 Time in min: 0.001 accuracy: 51.953125
+loss: 0.02321951393969357 accuracy: 51.953125
+total time 0.004834183057149251
+experiment number: 2 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 45.21484375
+Epoch: 2/3 Time in min: 0.002 accuracy: 45.99609375
+Epoch: 3/3 Time in min: 0.002 accuracy: 57.91015625
+loss: 0.036256483232136816 accuracy: 57.91015625
+total time 0.0069250822067260746
+experiment number: 2 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 2/3 Time in min: 0.001 accuracy: 39.6484375
+Epoch: 3/3 Time in min: 0.001 accuracy: 52.734375
+loss: 0.01834442897234112 accuracy: 52.734375
+total time 0.005294648806254069
+experiment number: 3 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 26.5625
+Epoch: 2/3 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 3/3 Time in min: 0.002 accuracy: 49.51171875
+loss: 0.03338185150641948 accuracy: 49.51171875
+total time 0.0064852237701416016
+experiment number: 3 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 2/3 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 3/3 Time in min: 0.001 accuracy: 42.1875
+loss: 0.01610787457320839 accuracy: 42.1875
+total time 0.004882506529490153
+experiment number: 4 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 2/3 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 3/3 Time in min: 0.002 accuracy: 57.2265625
+loss: 0.04657014925032854 accuracy: 57.2265625
+total time 0.006947529315948486
+experiment number: 4 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 44.04296875
+Epoch: 2/3 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 3/3 Time in min: 0.001 accuracy: 51.7578125
+loss: 0.021348832291550934 accuracy: 51.7578125
+total time 0.0044620672861735025
+experiment number: 5 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 51.171875
+Epoch: 2/3 Time in min: 0.002 accuracy: 43.06640625
+Epoch: 3/3 Time in min: 0.002 accuracy: 53.90625
+loss: 0.010956713929772377 accuracy: 53.90625
+total time 0.006781152884165446
+experiment number: 5 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 2/3 Time in min: 0.001 accuracy: 53.7109375
+Epoch: 3/3 Time in min: 0.001 accuracy: 56.54296875
+loss: 0.013041241909377277 accuracy: 56.54296875
+total time 0.005074997742970784
+experiment number: 6 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 2/3 Time in min: 0.002 accuracy: 56.34765625
+Epoch: 3/3 Time in min: 0.002 accuracy: 57.8125
+loss: 0.08475421229377389 accuracy: 57.8125
+total time 0.0066969990730285645
+experiment number: 6 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 45.41015625
+Epoch: 2/3 Time in min: 0.001 accuracy: 53.3203125
+Epoch: 3/3 Time in min: 0.002 accuracy: 54.58984375
+loss: 0.03163481561932713 accuracy: 54.58984375
+total time 0.006106336911519368
+experiment number: 7 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 2/3 Time in min: 0.002 accuracy: 46.77734375
+Epoch: 3/3 Time in min: 0.002 accuracy: 50.0
+loss: 0.2438673973083496 accuracy: 50.0
+total time 0.006503371397654215
+experiment number: 7 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 2/3 Time in min: 0.001 accuracy: 48.046875
+Epoch: 3/3 Time in min: 0.001 accuracy: 46.58203125
+loss: 0.04156263533513993 accuracy: 46.58203125
+total time 0.004770012696584066
+experiment number: 8 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 30.6640625
+Epoch: 2/3 Time in min: 0.002 accuracy: 48.33984375
+Epoch: 3/3 Time in min: 0.002 accuracy: 50.48828125
+loss: 0.04302886815275997 accuracy: 50.48828125
+total time 0.006942808628082275
+experiment number: 8 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 2/3 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 3/3 Time in min: 0.001 accuracy: 54.78515625
+loss: 0.02218850003555417 accuracy: 54.78515625
+total time 0.0043516397476196286
+experiment number: 9 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 46.875
+Epoch: 2/3 Time in min: 0.002 accuracy: 44.43359375
+Epoch: 3/3 Time in min: 0.002 accuracy: 54.4921875
+loss: 0.0769615467870608 accuracy: 54.4921875
+total time 0.006932655970255534
+experiment number: 9 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 46.484375
+Epoch: 2/3 Time in min: 0.002 accuracy: 37.3046875
+Epoch: 3/3 Time in min: 0.001 accuracy: 52.9296875
+loss: 0.01743481436278671 accuracy: 52.9296875
+total time 0.005092453956604004
+experiment number: 10 network type: Convolutional_NN
+Epoch: 1/3 Time in min: 0.002 accuracy: 46.97265625
+Epoch: 2/3 Time in min: 0.002 accuracy: 53.3203125
+Epoch: 3/3 Time in min: 0.002 accuracy: 55.76171875
+loss: 0.01988241105573252 accuracy: 55.76171875
+total time 0.0073103745778401695
+experiment number: 10 network type: Fully_Connected_NN
+Epoch: 1/3 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 2/3 Time in min: 0.001 accuracy: 43.84765625
+Epoch: 3/3 Time in min: 0.001 accuracy: 51.66015625
+loss: 0.02863297751173377 accuracy: 51.66015625
+total time 0.004613145192464193
+accuracies{'Convolutional_NN': [49.8046875, 57.91015625, 49.51171875, 57.2265625, 53.90625, 57.8125, 50.0, 50.48828125, 54.4921875, 55.76171875], 'Fully_Connected_NN': [51.953125, 52.734375, 42.1875, 51.7578125, 56.54296875, 54.58984375, 46.58203125, 54.78515625, 52.9296875, 51.66015625]}
+np mean: {'Convolutional_NN': 53.69140625, 'Fully_Connected_NN': 51.572265625}, 
+np variance: {'Convolutional_NN': 3.297196648261169, 'Fully_Connected_NN': 4.006156475147862}
+variance[2882.767105102539, 2659.6985816955566]
+variance[536.9140625, 515.72265625]
+mean: {'Convolutional_NN': 53.69140625, 'Fully_Connected_NN': 51.572265625}, 
+variances: {'Convolutional_NN': 0.0, 'Fully_Connected_NN': 0.0}
+walk amount: 4000 walk length: 100 alpha range: (1.1, 3) 
+experiment number: 1 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 49.0234375
+Epoch: 2/30 Time in min: 0.006 accuracy: 62.20703125
+Epoch: 3/30 Time in min: 0.006 accuracy: 66.40625
+Epoch: 4/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 5/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 7/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 8/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 9/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 11/30 Time in min: 0.005 accuracy: 71.38671875
+Epoch: 12/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 14/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 16/30 Time in min: 0.007 accuracy: 73.2421875
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 18/30 Time in min: 0.006 accuracy: 73.14453125
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 20/30 Time in min: 0.007 accuracy: 73.046875
+Epoch: 21/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 22/30 Time in min: 0.006 accuracy: 73.14453125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 24/30 Time in min: 0.007 accuracy: 71.77734375
+Epoch: 25/30 Time in min: 0.007 accuracy: 72.94921875
+Epoch: 26/30 Time in min: 0.007 accuracy: 74.90234375
+Epoch: 27/30 Time in min: 0.006 accuracy: 79.296875
+Epoch: 28/30 Time in min: 0.006 accuracy: 74.21875
+Epoch: 29/30 Time in min: 0.006 accuracy: 85.64453125
+Epoch: 30/30 Time in min: 0.007 accuracy: 87.40234375
+loss: 0.0019038511527469382 accuracy: 87.40234375
+total time 0.24171233177185059
+experiment number: 1 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 44.82421875
+Epoch: 2/30 Time in min: 0.002 accuracy: 46.2890625
+Epoch: 3/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 5/30 Time in min: 0.002 accuracy: 22.0703125
+Epoch: 6/30 Time in min: 0.002 accuracy: 58.69140625
+Epoch: 7/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 8/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 9/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 10/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 11/30 Time in min: 0.002 accuracy: 56.93359375
+Epoch: 12/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 13/30 Time in min: 0.002 accuracy: 60.83984375
+Epoch: 14/30 Time in min: 0.002 accuracy: 57.91015625
+Epoch: 15/30 Time in min: 0.002 accuracy: 52.734375
+Epoch: 16/30 Time in min: 0.002 accuracy: 57.03125
+Epoch: 17/30 Time in min: 0.002 accuracy: 54.296875
+Epoch: 18/30 Time in min: 0.002 accuracy: 53.515625
+Epoch: 19/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 20/30 Time in min: 0.002 accuracy: 61.81640625
+Epoch: 21/30 Time in min: 0.002 accuracy: 62.5
+Epoch: 22/30 Time in min: 0.002 accuracy: 54.00390625
+Epoch: 23/30 Time in min: 0.002 accuracy: 53.90625
+Epoch: 24/30 Time in min: 0.002 accuracy: 58.10546875
+Epoch: 25/30 Time in min: 0.002 accuracy: 61.328125
+Epoch: 26/30 Time in min: 0.002 accuracy: 63.4765625
+Epoch: 27/30 Time in min: 0.002 accuracy: 61.5234375
+Epoch: 28/30 Time in min: 0.002 accuracy: 57.6171875
+Epoch: 29/30 Time in min: 0.002 accuracy: 61.03515625
+Epoch: 30/30 Time in min: 0.002 accuracy: 62.01171875
+loss: 0.00490033469395712 accuracy: 62.01171875
+total time 0.0630621631940206
+experiment number: 1 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 42.08984375
+Epoch: 2/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 3/30 Time in min: 0.001 accuracy: 42.1875
+Epoch: 4/30 Time in min: 0.001 accuracy: 48.33984375
+Epoch: 5/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 6/30 Time in min: 0.001 accuracy: 41.11328125
+Epoch: 7/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 8/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 9/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 10/30 Time in min: 0.001 accuracy: 43.45703125
+Epoch: 11/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 12/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 13/30 Time in min: 0.001 accuracy: 42.578125
+Epoch: 14/30 Time in min: 0.001 accuracy: 41.69921875
+Epoch: 15/30 Time in min: 0.001 accuracy: 44.04296875
+Epoch: 16/30 Time in min: 0.001 accuracy: 45.01953125
+Epoch: 17/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 18/30 Time in min: 0.001 accuracy: 47.75390625
+Epoch: 19/30 Time in min: 0.001 accuracy: 52.24609375
+Epoch: 20/30 Time in min: 0.001 accuracy: 55.6640625
+Epoch: 21/30 Time in min: 0.001 accuracy: 44.23828125
+Epoch: 22/30 Time in min: 0.001 accuracy: 47.16796875
+Epoch: 23/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 24/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 25/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 27/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 28/30 Time in min: 0.001 accuracy: 54.19921875
+Epoch: 29/30 Time in min: 0.001 accuracy: 64.74609375
+Epoch: 30/30 Time in min: 0.001 accuracy: 58.984375
+loss: 0.04179759917315096 accuracy: 58.984375
+total time 0.041478999455769855
+experiment number: 2 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 63.18359375
+Epoch: 2/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 3/30 Time in min: 0.006 accuracy: 69.7265625
+Epoch: 4/30 Time in min: 0.006 accuracy: 68.359375
+Epoch: 5/30 Time in min: 0.006 accuracy: 70.3125
+Epoch: 6/30 Time in min: 0.006 accuracy: 69.7265625
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 10/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 11/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.3125
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 15/30 Time in min: 0.006 accuracy: 69.62890625
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 17/30 Time in min: 0.006 accuracy: 72.94921875
+Epoch: 18/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 19/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.94921875
+Epoch: 22/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 24/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.94921875
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 28/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 29/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.09375
+loss: 0.0031006376375444233 accuracy: 71.09375
+total time 0.18093632857004802
+experiment number: 2 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.77734375
+Epoch: 4/30 Time in min: 0.002 accuracy: 55.46875
+Epoch: 5/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 6/30 Time in min: 0.002 accuracy: 54.1015625
+Epoch: 7/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 8/30 Time in min: 0.002 accuracy: 50.29296875
+Epoch: 9/30 Time in min: 0.002 accuracy: 53.41796875
+Epoch: 10/30 Time in min: 0.002 accuracy: 57.6171875
+Epoch: 11/30 Time in min: 0.002 accuracy: 57.91015625
+Epoch: 12/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 13/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 14/30 Time in min: 0.002 accuracy: 57.91015625
+Epoch: 15/30 Time in min: 0.002 accuracy: 52.63671875
+Epoch: 16/30 Time in min: 0.002 accuracy: 59.9609375
+Epoch: 17/30 Time in min: 0.002 accuracy: 53.61328125
+Epoch: 18/30 Time in min: 0.002 accuracy: 63.4765625
+Epoch: 19/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 20/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 21/30 Time in min: 0.002 accuracy: 55.56640625
+Epoch: 22/30 Time in min: 0.002 accuracy: 53.80859375
+Epoch: 23/30 Time in min: 0.002 accuracy: 54.1015625
+Epoch: 24/30 Time in min: 0.002 accuracy: 64.6484375
+Epoch: 25/30 Time in min: 0.002 accuracy: 60.15625
+Epoch: 26/30 Time in min: 0.002 accuracy: 47.65625
+Epoch: 27/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 28/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 29/30 Time in min: 0.002 accuracy: 54.78515625
+Epoch: 30/30 Time in min: 0.002 accuracy: 49.51171875
+loss: 0.0069621066795662045 accuracy: 49.51171875
+total time 0.06518291632334391
+experiment number: 2 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 43.06640625
+Epoch: 2/30 Time in min: 0.001 accuracy: 45.41015625
+Epoch: 3/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 4/30 Time in min: 0.001 accuracy: 42.08984375
+Epoch: 5/30 Time in min: 0.001 accuracy: 45.1171875
+Epoch: 6/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 7/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 8/30 Time in min: 0.001 accuracy: 58.88671875
+Epoch: 9/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 10/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 11/30 Time in min: 0.001 accuracy: 55.46875
+Epoch: 12/30 Time in min: 0.001 accuracy: 57.2265625
+Epoch: 13/30 Time in min: 0.001 accuracy: 55.76171875
+Epoch: 14/30 Time in min: 0.001 accuracy: 62.01171875
+Epoch: 15/30 Time in min: 0.001 accuracy: 59.765625
+Epoch: 16/30 Time in min: 0.001 accuracy: 63.671875
+Epoch: 17/30 Time in min: 0.001 accuracy: 57.71484375
+Epoch: 18/30 Time in min: 0.001 accuracy: 59.9609375
+Epoch: 19/30 Time in min: 0.001 accuracy: 58.30078125
+Epoch: 20/30 Time in min: 0.001 accuracy: 55.859375
+Epoch: 21/30 Time in min: 0.001 accuracy: 57.12890625
+Epoch: 22/30 Time in min: 0.001 accuracy: 59.765625
+Epoch: 23/30 Time in min: 0.001 accuracy: 60.25390625
+Epoch: 24/30 Time in min: 0.001 accuracy: 60.64453125
+Epoch: 25/30 Time in min: 0.001 accuracy: 61.42578125
+Epoch: 26/30 Time in min: 0.001 accuracy: 62.79296875
+Epoch: 27/30 Time in min: 0.001 accuracy: 57.8125
+Epoch: 28/30 Time in min: 0.001 accuracy: 57.51953125
+Epoch: 29/30 Time in min: 0.001 accuracy: 55.56640625
+Epoch: 30/30 Time in min: 0.001 accuracy: 54.1015625
+loss: 0.9105272946180776 accuracy: 54.1015625
+total time 0.041293625036875406
+experiment number: 3 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.005 accuracy: 49.0234375
+Epoch: 2/30 Time in min: 0.005 accuracy: 49.4140625
+Epoch: 3/30 Time in min: 0.005 accuracy: 49.70703125
+Epoch: 4/30 Time in min: 0.005 accuracy: 66.6015625
+Epoch: 5/30 Time in min: 0.005 accuracy: 69.3359375
+Epoch: 6/30 Time in min: 0.005 accuracy: 69.921875
+Epoch: 7/30 Time in min: 0.005 accuracy: 69.23828125
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 9/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 11/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 12/30 Time in min: 0.005 accuracy: 70.3125
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 14/30 Time in min: 0.005 accuracy: 70.703125
+Epoch: 15/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 17/30 Time in min: 0.005 accuracy: 72.16796875
+Epoch: 18/30 Time in min: 0.005 accuracy: 69.7265625
+Epoch: 19/30 Time in min: 0.006 accuracy: 69.921875
+Epoch: 20/30 Time in min: 0.005 accuracy: 70.60546875
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 22/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 23/30 Time in min: 0.005 accuracy: 72.8515625
+Epoch: 24/30 Time in min: 0.005 accuracy: 71.97265625
+Epoch: 25/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 26/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 28/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 29/30 Time in min: 0.005 accuracy: 75.5859375
+Epoch: 30/30 Time in min: 0.005 accuracy: 73.33984375
+loss: 0.003050029481528327 accuracy: 73.33984375
+total time 0.17360004981358845
+experiment number: 3 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 43.26171875
+Epoch: 2/30 Time in min: 0.002 accuracy: 48.2421875
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.58203125
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 5/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 6/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 7/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 8/30 Time in min: 0.002 accuracy: 52.734375
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 10/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 11/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 12/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 13/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 14/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 15/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 16/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 18/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 19/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 20/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 21/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 22/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 23/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 24/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 25/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 26/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 27/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 28/30 Time in min: 0.002 accuracy: 50.9765625
+Epoch: 29/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 30/30 Time in min: 0.002 accuracy: 51.171875
+loss: 0.005686648073606193 accuracy: 51.171875
+total time 0.06297012170155843
+experiment number: 3 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 2/30 Time in min: 0.001 accuracy: 44.140625
+Epoch: 3/30 Time in min: 0.001 accuracy: 44.140625
+Epoch: 4/30 Time in min: 0.001 accuracy: 45.3125
+Epoch: 5/30 Time in min: 0.001 accuracy: 49.0234375
+Epoch: 6/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 7/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 8/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 9/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 10/30 Time in min: 0.001 accuracy: 54.39453125
+Epoch: 11/30 Time in min: 0.001 accuracy: 61.23046875
+Epoch: 12/30 Time in min: 0.001 accuracy: 59.1796875
+Epoch: 13/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 14/30 Time in min: 0.001 accuracy: 45.41015625
+Epoch: 15/30 Time in min: 0.001 accuracy: 37.109375
+Epoch: 16/30 Time in min: 0.001 accuracy: 42.7734375
+Epoch: 17/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 18/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 19/30 Time in min: 0.001 accuracy: 45.8984375
+Epoch: 20/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 21/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 22/30 Time in min: 0.001 accuracy: 43.75
+Epoch: 23/30 Time in min: 0.001 accuracy: 37.6953125
+Epoch: 24/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 25/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 26/30 Time in min: 0.001 accuracy: 43.9453125
+Epoch: 27/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 28/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.29296875
+Epoch: 30/30 Time in min: 0.001 accuracy: 58.0078125
+loss: 48.2149396983441 accuracy: 58.0078125
+total time 0.041478443145751956
+experiment number: 4 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 62.5
+Epoch: 2/30 Time in min: 0.006 accuracy: 68.26171875
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 4/30 Time in min: 0.005 accuracy: 70.60546875
+Epoch: 5/30 Time in min: 0.006 accuracy: 68.26171875
+Epoch: 6/30 Time in min: 0.007 accuracy: 70.21484375
+Epoch: 7/30 Time in min: 0.007 accuracy: 70.80078125
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 9/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 10/30 Time in min: 0.005 accuracy: 69.921875
+Epoch: 11/30 Time in min: 0.005 accuracy: 72.4609375
+Epoch: 12/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 13/30 Time in min: 0.005 accuracy: 71.77734375
+Epoch: 14/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 15/30 Time in min: 0.005 accuracy: 72.265625
+Epoch: 16/30 Time in min: 0.005 accuracy: 71.97265625
+Epoch: 17/30 Time in min: 0.005 accuracy: 72.0703125
+Epoch: 18/30 Time in min: 0.005 accuracy: 72.0703125
+Epoch: 19/30 Time in min: 0.005 accuracy: 71.2890625
+Epoch: 20/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 21/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 22/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 24/30 Time in min: 0.005 accuracy: 72.4609375
+Epoch: 25/30 Time in min: 0.005 accuracy: 72.94921875
+Epoch: 26/30 Time in min: 0.005 accuracy: 71.19140625
+Epoch: 27/30 Time in min: 0.005 accuracy: 70.80078125
+Epoch: 28/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.19140625
+loss: 0.0032611115893814713 accuracy: 71.19140625
+total time 0.17230213483174642
+experiment number: 4 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 3/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 4/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 5/30 Time in min: 0.002 accuracy: 44.43359375
+Epoch: 6/30 Time in min: 0.002 accuracy: 46.77734375
+Epoch: 7/30 Time in min: 0.002 accuracy: 55.37109375
+Epoch: 8/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 9/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 10/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 11/30 Time in min: 0.002 accuracy: 50.1953125
+Epoch: 12/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 13/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 14/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 15/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 16/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 17/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 18/30 Time in min: 0.002 accuracy: 50.9765625
+Epoch: 19/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 20/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 21/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 22/30 Time in min: 0.002 accuracy: 53.3203125
+Epoch: 23/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 24/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 25/30 Time in min: 0.002 accuracy: 50.9765625
+Epoch: 26/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 27/30 Time in min: 0.002 accuracy: 52.5390625
+Epoch: 28/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 29/30 Time in min: 0.002 accuracy: 53.02734375
+Epoch: 30/30 Time in min: 0.002 accuracy: 52.63671875
+loss: 0.005632059182971716 accuracy: 52.63671875
+total time 0.06238181193669637
+experiment number: 4 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 2/30 Time in min: 0.001 accuracy: 45.41015625
+Epoch: 3/30 Time in min: 0.001 accuracy: 45.8984375
+Epoch: 4/30 Time in min: 0.001 accuracy: 52.83203125
+Epoch: 5/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 6/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 7/30 Time in min: 0.001 accuracy: 49.21875
+Epoch: 8/30 Time in min: 0.001 accuracy: 49.70703125
+Epoch: 9/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 10/30 Time in min: 0.001 accuracy: 48.33984375
+Epoch: 11/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 12/30 Time in min: 0.001 accuracy: 52.05078125
+Epoch: 13/30 Time in min: 0.001 accuracy: 49.12109375
+Epoch: 14/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 15/30 Time in min: 0.001 accuracy: 45.21484375
+Epoch: 16/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 17/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 18/30 Time in min: 0.001 accuracy: 45.3125
+Epoch: 19/30 Time in min: 0.001 accuracy: 41.11328125
+Epoch: 20/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 21/30 Time in min: 0.001 accuracy: 42.3828125
+Epoch: 22/30 Time in min: 0.001 accuracy: 43.26171875
+Epoch: 23/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 24/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 25/30 Time in min: 0.001 accuracy: 56.0546875
+Epoch: 26/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 27/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 28/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 29/30 Time in min: 0.001 accuracy: 52.05078125
+Epoch: 30/30 Time in min: 0.001 accuracy: 52.83203125
+loss: 0.013185645686462522 accuracy: 52.83203125
+total time 0.042268184820810954
+experiment number: 5 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 62.890625
+Epoch: 2/30 Time in min: 0.006 accuracy: 63.76953125
+Epoch: 3/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 7/30 Time in min: 0.005 accuracy: 72.16796875
+Epoch: 8/30 Time in min: 0.005 accuracy: 72.16796875
+Epoch: 9/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 11/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 14/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 16/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 17/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 18/30 Time in min: 0.007 accuracy: 72.16796875
+Epoch: 19/30 Time in min: 0.007 accuracy: 71.484375
+Epoch: 20/30 Time in min: 0.007 accuracy: 72.36328125
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 22/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 24/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 25/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 27/30 Time in min: 0.006 accuracy: 73.828125
+Epoch: 28/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.2890625
+loss: 0.0030609101813752204 accuracy: 71.2890625
+total time 0.18230142593383789
+experiment number: 5 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 44.140625
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.875
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 5/30 Time in min: 0.002 accuracy: 50.29296875
+Epoch: 6/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 7/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 8/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 9/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 10/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 11/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 12/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 13/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 14/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 15/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 16/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 17/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 18/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 19/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 20/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 21/30 Time in min: 0.002 accuracy: 52.34375
+Epoch: 22/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 23/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 24/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 25/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 26/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 27/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 28/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 29/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 30/30 Time in min: 0.002 accuracy: 51.46484375
+loss: 0.0056901456555351615 accuracy: 51.46484375
+total time 0.06497873862584432
+experiment number: 5 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 2/30 Time in min: 0.001 accuracy: 46.484375
+Epoch: 3/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 4/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 5/30 Time in min: 0.001 accuracy: 54.8828125
+Epoch: 6/30 Time in min: 0.001 accuracy: 48.6328125
+Epoch: 7/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 8/30 Time in min: 0.001 accuracy: 51.26953125
+Epoch: 9/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 10/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 11/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 12/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 13/30 Time in min: 0.001 accuracy: 52.83203125
+Epoch: 14/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 15/30 Time in min: 0.001 accuracy: 49.70703125
+Epoch: 16/30 Time in min: 0.001 accuracy: 48.6328125
+Epoch: 17/30 Time in min: 0.001 accuracy: 57.2265625
+Epoch: 18/30 Time in min: 0.001 accuracy: 59.765625
+Epoch: 19/30 Time in min: 0.001 accuracy: 52.734375
+Epoch: 20/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 21/30 Time in min: 0.001 accuracy: 52.5390625
+Epoch: 22/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 23/30 Time in min: 0.001 accuracy: 53.61328125
+Epoch: 24/30 Time in min: 0.001 accuracy: 55.76171875
+Epoch: 25/30 Time in min: 0.001 accuracy: 55.76171875
+Epoch: 26/30 Time in min: 0.001 accuracy: 54.78515625
+Epoch: 27/30 Time in min: 0.001 accuracy: 54.78515625
+Epoch: 28/30 Time in min: 0.001 accuracy: 52.734375
+Epoch: 29/30 Time in min: 0.001 accuracy: 56.73828125
+Epoch: 30/30 Time in min: 0.001 accuracy: 56.73828125
+loss: 49.258256673347205 accuracy: 56.73828125
+total time 0.040586340427398684
+experiment number: 6 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.005 accuracy: 45.8984375
+Epoch: 2/30 Time in min: 0.005 accuracy: 68.06640625
+Epoch: 3/30 Time in min: 0.005 accuracy: 69.140625
+Epoch: 4/30 Time in min: 0.005 accuracy: 70.3125
+Epoch: 5/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 6/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 7/30 Time in min: 0.005 accuracy: 70.60546875
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 10/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 11/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 12/30 Time in min: 0.005 accuracy: 72.36328125
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 14/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 15/30 Time in min: 0.005 accuracy: 72.36328125
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 17/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 18/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 20/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 21/30 Time in min: 0.005 accuracy: 70.99609375
+Epoch: 22/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 23/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 24/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 28/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 29/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.58203125
+loss: 0.0031691196199972183 accuracy: 71.58203125
+total time 0.17250696023305256
+experiment number: 6 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 43.65234375
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 5/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 6/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 7/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 8/30 Time in min: 0.002 accuracy: 47.65625
+Epoch: 9/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 10/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 11/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 12/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 13/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 14/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 15/30 Time in min: 0.002 accuracy: 50.29296875
+Epoch: 16/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 18/30 Time in min: 0.002 accuracy: 46.58203125
+Epoch: 19/30 Time in min: 0.002 accuracy: 46.77734375
+Epoch: 20/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 21/30 Time in min: 0.002 accuracy: 48.2421875
+Epoch: 22/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 23/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 24/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 25/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 26/30 Time in min: 0.002 accuracy: 48.73046875
+Epoch: 27/30 Time in min: 0.002 accuracy: 48.73046875
+Epoch: 28/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 29/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 30/30 Time in min: 0.002 accuracy: 47.65625
+loss: 0.005525588057935238 accuracy: 47.65625
+total time 0.06185861428578695
+experiment number: 6 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 33.69140625
+Epoch: 2/30 Time in min: 0.001 accuracy: 50.9765625
+Epoch: 3/30 Time in min: 0.001 accuracy: 47.94921875
+Epoch: 4/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 5/30 Time in min: 0.001 accuracy: 53.125
+Epoch: 6/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 7/30 Time in min: 0.001 accuracy: 43.9453125
+Epoch: 8/30 Time in min: 0.001 accuracy: 56.15234375
+Epoch: 9/30 Time in min: 0.001 accuracy: 47.75390625
+Epoch: 10/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 11/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 12/30 Time in min: 0.001 accuracy: 54.6875
+Epoch: 13/30 Time in min: 0.001 accuracy: 52.1484375
+Epoch: 14/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 15/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 16/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 17/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 18/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 19/30 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 20/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 21/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 22/30 Time in min: 0.001 accuracy: 51.953125
+Epoch: 23/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 24/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 25/30 Time in min: 0.001 accuracy: 51.171875
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.1953125
+Epoch: 27/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 28/30 Time in min: 0.001 accuracy: 52.5390625
+Epoch: 29/30 Time in min: 0.001 accuracy: 52.34375
+Epoch: 30/30 Time in min: 0.001 accuracy: 53.41796875
+loss: 0.006351593881845474 accuracy: 53.41796875
+total time 0.04166700045267741
+experiment number: 7 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 62.6953125
+Epoch: 2/30 Time in min: 0.006 accuracy: 66.9921875
+Epoch: 3/30 Time in min: 0.006 accuracy: 68.26171875
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 7/30 Time in min: 0.007 accuracy: 70.8984375
+Epoch: 8/30 Time in min: 0.007 accuracy: 72.36328125
+Epoch: 9/30 Time in min: 0.007 accuracy: 71.09375
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 11/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 16/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 17/30 Time in min: 0.005 accuracy: 71.19140625
+Epoch: 18/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 19/30 Time in min: 0.005 accuracy: 72.16796875
+Epoch: 20/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 21/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 22/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 23/30 Time in min: 0.005 accuracy: 72.4609375
+Epoch: 24/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 25/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 27/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 28/30 Time in min: 0.005 accuracy: 72.65625
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 30/30 Time in min: 0.005 accuracy: 71.484375
+loss: 0.0030899189587216824 accuracy: 71.484375
+total time 0.181766144434611
+experiment number: 7 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.21484375
+Epoch: 2/30 Time in min: 0.002 accuracy: 59.08203125
+Epoch: 3/30 Time in min: 0.002 accuracy: 34.765625
+Epoch: 4/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 5/30 Time in min: 0.002 accuracy: 50.1953125
+Epoch: 6/30 Time in min: 0.002 accuracy: 48.33984375
+Epoch: 7/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 8/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.83203125
+Epoch: 10/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 11/30 Time in min: 0.002 accuracy: 47.94921875
+Epoch: 12/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 13/30 Time in min: 0.002 accuracy: 57.91015625
+Epoch: 14/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 15/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 16/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 17/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 18/30 Time in min: 0.002 accuracy: 47.55859375
+Epoch: 19/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 20/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 21/30 Time in min: 0.002 accuracy: 53.515625
+Epoch: 22/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 23/30 Time in min: 0.002 accuracy: 54.58984375
+Epoch: 24/30 Time in min: 0.002 accuracy: 54.98046875
+Epoch: 25/30 Time in min: 0.002 accuracy: 53.02734375
+Epoch: 26/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 27/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 28/30 Time in min: 0.002 accuracy: 55.56640625
+Epoch: 29/30 Time in min: 0.002 accuracy: 58.88671875
+Epoch: 30/30 Time in min: 0.002 accuracy: 51.3671875
+loss: 0.005576835130341351 accuracy: 51.3671875
+total time 0.06168291171391805
+experiment number: 7 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 40.52734375
+Epoch: 2/30 Time in min: 0.001 accuracy: 45.5078125
+Epoch: 3/30 Time in min: 0.001 accuracy: 45.1171875
+Epoch: 4/30 Time in min: 0.001 accuracy: 41.9921875
+Epoch: 5/30 Time in min: 0.001 accuracy: 49.0234375
+Epoch: 6/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 7/30 Time in min: 0.001 accuracy: 52.83203125
+Epoch: 8/30 Time in min: 0.001 accuracy: 54.4921875
+Epoch: 9/30 Time in min: 0.001 accuracy: 55.6640625
+Epoch: 10/30 Time in min: 0.001 accuracy: 59.765625
+Epoch: 11/30 Time in min: 0.001 accuracy: 57.12890625
+Epoch: 12/30 Time in min: 0.001 accuracy: 53.515625
+Epoch: 13/30 Time in min: 0.001 accuracy: 42.67578125
+Epoch: 14/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 15/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 16/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 17/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 18/30 Time in min: 0.001 accuracy: 53.80859375
+Epoch: 19/30 Time in min: 0.001 accuracy: 53.515625
+Epoch: 20/30 Time in min: 0.001 accuracy: 54.58984375
+Epoch: 21/30 Time in min: 0.001 accuracy: 53.90625
+Epoch: 22/30 Time in min: 0.001 accuracy: 53.7109375
+Epoch: 23/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 24/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 25/30 Time in min: 0.001 accuracy: 51.5625
+Epoch: 26/30 Time in min: 0.001 accuracy: 51.07421875
+Epoch: 27/30 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 28/30 Time in min: 0.001 accuracy: 52.1484375
+Epoch: 29/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 30/30 Time in min: 0.001 accuracy: 53.22265625
+loss: 0.5427873979788274 accuracy: 53.22265625
+total time 0.04077022870381673
+experiment number: 8 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 60.9375
+Epoch: 2/30 Time in min: 0.006 accuracy: 60.7421875
+Epoch: 3/30 Time in min: 0.006 accuracy: 67.28515625
+Epoch: 4/30 Time in min: 0.006 accuracy: 68.5546875
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 6/30 Time in min: 0.006 accuracy: 68.45703125
+Epoch: 7/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 19/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 20/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 21/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 22/30 Time in min: 0.005 accuracy: 70.8984375
+Epoch: 23/30 Time in min: 0.005 accuracy: 71.77734375
+Epoch: 24/30 Time in min: 0.005 accuracy: 70.99609375
+Epoch: 25/30 Time in min: 0.005 accuracy: 71.2890625
+Epoch: 26/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 27/30 Time in min: 0.005 accuracy: 71.38671875
+Epoch: 28/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 30/30 Time in min: 0.006 accuracy: 69.82421875
+loss: 0.004569794982671738 accuracy: 69.82421875
+total time 0.18175458510716755
+experiment number: 8 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 2/30 Time in min: 0.002 accuracy: 45.99609375
+Epoch: 3/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 5/30 Time in min: 0.002 accuracy: 45.1171875
+Epoch: 6/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 7/30 Time in min: 0.002 accuracy: 29.1015625
+Epoch: 8/30 Time in min: 0.002 accuracy: 46.484375
+Epoch: 9/30 Time in min: 0.002 accuracy: 16.6015625
+Epoch: 10/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 11/30 Time in min: 0.002 accuracy: 24.12109375
+Epoch: 12/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 13/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 14/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 15/30 Time in min: 0.002 accuracy: 50.9765625
+Epoch: 16/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 18/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 19/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 20/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 21/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 22/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 23/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 24/30 Time in min: 0.002 accuracy: 49.21875
+Epoch: 25/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 26/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 27/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 28/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 29/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 30/30 Time in min: 0.002 accuracy: 49.609375
+loss: 0.006875600956846029 accuracy: 49.609375
+total time 0.06279155810674032
+experiment number: 8 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 25.78125
+Epoch: 2/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 3/30 Time in min: 0.001 accuracy: 54.98046875
+Epoch: 4/30 Time in min: 0.001 accuracy: 48.33984375
+Epoch: 5/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 7/30 Time in min: 0.001 accuracy: 55.37109375
+Epoch: 8/30 Time in min: 0.001 accuracy: 46.484375
+Epoch: 9/30 Time in min: 0.001 accuracy: 41.9921875
+Epoch: 10/30 Time in min: 0.001 accuracy: 43.359375
+Epoch: 11/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 12/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 13/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 14/30 Time in min: 0.001 accuracy: 50.29296875
+Epoch: 15/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 16/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 17/30 Time in min: 0.001 accuracy: 51.46484375
+Epoch: 18/30 Time in min: 0.001 accuracy: 52.1484375
+Epoch: 19/30 Time in min: 0.001 accuracy: 53.90625
+Epoch: 20/30 Time in min: 0.001 accuracy: 53.02734375
+Epoch: 21/30 Time in min: 0.001 accuracy: 54.39453125
+Epoch: 22/30 Time in min: 0.001 accuracy: 54.19921875
+Epoch: 23/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 24/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 25/30 Time in min: 0.001 accuracy: 52.24609375
+Epoch: 26/30 Time in min: 0.001 accuracy: 51.953125
+Epoch: 27/30 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 28/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 29/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 30/30 Time in min: 0.001 accuracy: 52.24609375
+loss: 0.006571945967152715 accuracy: 52.24609375
+total time 0.043246189753214516
+experiment number: 9 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 57.2265625
+Epoch: 2/30 Time in min: 0.006 accuracy: 67.96875
+Epoch: 3/30 Time in min: 0.006 accuracy: 67.28515625
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.23828125
+Epoch: 6/30 Time in min: 0.006 accuracy: 68.45703125
+Epoch: 7/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.3125
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 11/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 14/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 16/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 17/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 19/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 20/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 22/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 25/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 28/30 Time in min: 0.006 accuracy: 73.53515625
+Epoch: 29/30 Time in min: 0.006 accuracy: 73.828125
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.6796875
+loss: 0.003073410684010014 accuracy: 71.6796875
+total time 0.18743842840194702
+experiment number: 9 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 44.53125
+Epoch: 2/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.484375
+Epoch: 4/30 Time in min: 0.002 accuracy: 46.484375
+Epoch: 5/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 6/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 7/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 8/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 9/30 Time in min: 0.002 accuracy: 48.6328125
+Epoch: 10/30 Time in min: 0.002 accuracy: 54.58984375
+Epoch: 11/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 12/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 13/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 14/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 15/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 16/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 18/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 19/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 20/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 21/30 Time in min: 0.002 accuracy: 53.80859375
+Epoch: 22/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 23/30 Time in min: 0.002 accuracy: 54.78515625
+Epoch: 24/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 25/30 Time in min: 0.002 accuracy: 58.69140625
+Epoch: 26/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 27/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 28/30 Time in min: 0.002 accuracy: 58.10546875
+Epoch: 29/30 Time in min: 0.002 accuracy: 58.49609375
+Epoch: 30/30 Time in min: 0.002 accuracy: 59.765625
+loss: 0.005333293927833438 accuracy: 59.765625
+total time 0.06544615030288696
+experiment number: 9 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 39.94140625
+Epoch: 2/30 Time in min: 0.001 accuracy: 42.48046875
+Epoch: 3/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 4/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 5/30 Time in min: 0.001 accuracy: 53.80859375
+Epoch: 6/30 Time in min: 0.001 accuracy: 45.8984375
+Epoch: 7/30 Time in min: 0.001 accuracy: 57.32421875
+Epoch: 8/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 9/30 Time in min: 0.001 accuracy: 50.9765625
+Epoch: 10/30 Time in min: 0.001 accuracy: 45.8984375
+Epoch: 11/30 Time in min: 0.001 accuracy: 44.7265625
+Epoch: 12/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 13/30 Time in min: 0.001 accuracy: 47.94921875
+Epoch: 14/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 15/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 16/30 Time in min: 0.001 accuracy: 55.56640625
+Epoch: 17/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 18/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 19/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 20/30 Time in min: 0.001 accuracy: 43.65234375
+Epoch: 21/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 22/30 Time in min: 0.001 accuracy: 45.41015625
+Epoch: 23/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 24/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 25/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 26/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 27/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 28/30 Time in min: 0.001 accuracy: 51.07421875
+Epoch: 29/30 Time in min: 0.001 accuracy: 52.734375
+Epoch: 30/30 Time in min: 0.001 accuracy: 51.85546875
+loss: 376.79146851599216 accuracy: 51.85546875
+total time 0.04014344612757365
+experiment number: 10 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 64.453125
+Epoch: 2/30 Time in min: 0.006 accuracy: 68.5546875
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 4/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 5/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 8/30 Time in min: 0.007 accuracy: 69.7265625
+Epoch: 9/30 Time in min: 0.005 accuracy: 71.875
+Epoch: 10/30 Time in min: 0.005 accuracy: 71.19140625
+Epoch: 11/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 14/30 Time in min: 0.005 accuracy: 71.38671875
+Epoch: 15/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 16/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 17/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 19/30 Time in min: 0.005 accuracy: 72.4609375
+Epoch: 20/30 Time in min: 0.005 accuracy: 72.55859375
+Epoch: 21/30 Time in min: 0.005 accuracy: 73.14453125
+Epoch: 22/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 23/30 Time in min: 0.005 accuracy: 73.046875
+Epoch: 24/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 26/30 Time in min: 0.007 accuracy: 72.94921875
+Epoch: 27/30 Time in min: 0.007 accuracy: 71.875
+Epoch: 28/30 Time in min: 0.007 accuracy: 70.60546875
+Epoch: 29/30 Time in min: 0.007 accuracy: 71.77734375
+Epoch: 30/30 Time in min: 0.006 accuracy: 72.16796875
+loss: 0.003092601109528914 accuracy: 72.16796875
+total time 0.1821314811706543
+experiment number: 10 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 43.84765625
+Epoch: 2/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.19140625
+Epoch: 4/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 5/30 Time in min: 0.002 accuracy: 60.25390625
+Epoch: 6/30 Time in min: 0.002 accuracy: 64.6484375
+Epoch: 7/30 Time in min: 0.002 accuracy: 52.734375
+Epoch: 8/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 10/30 Time in min: 0.002 accuracy: 49.21875
+Epoch: 11/30 Time in min: 0.002 accuracy: 50.9765625
+Epoch: 12/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 13/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 14/30 Time in min: 0.002 accuracy: 52.83203125
+Epoch: 15/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 16/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 18/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 19/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 20/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 21/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 22/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 23/30 Time in min: 0.002 accuracy: 48.53515625
+Epoch: 24/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 25/30 Time in min: 0.002 accuracy: 47.16796875
+Epoch: 26/30 Time in min: 0.002 accuracy: 50.390625
+Epoch: 27/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 28/30 Time in min: 0.002 accuracy: 53.7109375
+Epoch: 29/30 Time in min: 0.002 accuracy: 53.02734375
+Epoch: 30/30 Time in min: 0.002 accuracy: 52.34375
+loss: 0.005387330078519881 accuracy: 52.34375
+total time 0.06606728235880534
+experiment number: 10 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 2/30 Time in min: 0.001 accuracy: 40.4296875
+Epoch: 3/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 4/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 5/30 Time in min: 0.001 accuracy: 62.3046875
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.4609375
+Epoch: 7/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 8/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 9/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 10/30 Time in min: 0.001 accuracy: 49.609375
+Epoch: 11/30 Time in min: 0.001 accuracy: 51.953125
+Epoch: 12/30 Time in min: 0.001 accuracy: 52.05078125
+Epoch: 13/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 14/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 15/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 16/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 17/30 Time in min: 0.001 accuracy: 50.29296875
+Epoch: 18/30 Time in min: 0.001 accuracy: 51.953125
+Epoch: 19/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 20/30 Time in min: 0.001 accuracy: 51.5625
+Epoch: 21/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 22/30 Time in min: 0.001 accuracy: 42.7734375
+Epoch: 23/30 Time in min: 0.001 accuracy: 49.0234375
+Epoch: 24/30 Time in min: 0.001 accuracy: 43.75
+Epoch: 25/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 26/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 27/30 Time in min: 0.001 accuracy: 51.5625
+Epoch: 28/30 Time in min: 0.001 accuracy: 51.953125
+Epoch: 29/30 Time in min: 0.001 accuracy: 52.05078125
+Epoch: 30/30 Time in min: 0.001 accuracy: 52.1484375
+loss: 0.20992569503141567 accuracy: 52.1484375
+total time 0.04138790369033814
+experiment number: 11 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 58.203125
+Epoch: 2/30 Time in min: 0.006 accuracy: 65.8203125
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 4/30 Time in min: 0.005 accuracy: 70.21484375
+Epoch: 5/30 Time in min: 0.005 accuracy: 70.8984375
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 7/30 Time in min: 0.006 accuracy: 68.75
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 12/30 Time in min: 0.005 accuracy: 70.99609375
+Epoch: 13/30 Time in min: 0.005 accuracy: 71.97265625
+Epoch: 14/30 Time in min: 0.005 accuracy: 72.16796875
+Epoch: 15/30 Time in min: 0.005 accuracy: 71.2890625
+Epoch: 16/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 18/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 19/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 22/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 25/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 28/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 29/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.58203125
+loss: 0.003078560344874859 accuracy: 71.58203125
+total time 0.17990302244822184
+experiment number: 11 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 2/30 Time in min: 0.002 accuracy: 46.19140625
+Epoch: 3/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 4/30 Time in min: 0.002 accuracy: 54.296875
+Epoch: 5/30 Time in min: 0.002 accuracy: 53.22265625
+Epoch: 6/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 7/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 8/30 Time in min: 0.002 accuracy: 48.53515625
+Epoch: 9/30 Time in min: 0.002 accuracy: 49.21875
+Epoch: 10/30 Time in min: 0.002 accuracy: 47.16796875
+Epoch: 11/30 Time in min: 0.002 accuracy: 52.5390625
+Epoch: 12/30 Time in min: 0.002 accuracy: 56.640625
+Epoch: 13/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 14/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 15/30 Time in min: 0.002 accuracy: 54.8828125
+Epoch: 16/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 17/30 Time in min: 0.002 accuracy: 56.4453125
+Epoch: 18/30 Time in min: 0.002 accuracy: 58.30078125
+Epoch: 19/30 Time in min: 0.002 accuracy: 55.17578125
+Epoch: 20/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 21/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 22/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 23/30 Time in min: 0.002 accuracy: 56.54296875
+Epoch: 24/30 Time in min: 0.002 accuracy: 57.6171875
+Epoch: 25/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 26/30 Time in min: 0.002 accuracy: 52.83203125
+Epoch: 27/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 28/30 Time in min: 0.002 accuracy: 46.97265625
+Epoch: 29/30 Time in min: 0.002 accuracy: 56.15234375
+Epoch: 30/30 Time in min: 0.002 accuracy: 54.19921875
+loss: 0.00530968839302659 accuracy: 54.19921875
+total time 0.06687841415405274
+experiment number: 11 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 42.96875
+Epoch: 2/30 Time in min: 0.001 accuracy: 41.50390625
+Epoch: 3/30 Time in min: 0.001 accuracy: 49.70703125
+Epoch: 4/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 5/30 Time in min: 0.001 accuracy: 42.08984375
+Epoch: 6/30 Time in min: 0.001 accuracy: 45.3125
+Epoch: 7/30 Time in min: 0.001 accuracy: 45.5078125
+Epoch: 8/30 Time in min: 0.001 accuracy: 41.89453125
+Epoch: 9/30 Time in min: 0.001 accuracy: 45.01953125
+Epoch: 10/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 11/30 Time in min: 0.001 accuracy: 47.4609375
+Epoch: 12/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 13/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 14/30 Time in min: 0.001 accuracy: 45.99609375
+Epoch: 15/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 16/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 17/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 18/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 19/30 Time in min: 0.001 accuracy: 57.71484375
+Epoch: 20/30 Time in min: 0.001 accuracy: 52.34375
+Epoch: 21/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 22/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 23/30 Time in min: 0.001 accuracy: 51.07421875
+Epoch: 24/30 Time in min: 0.001 accuracy: 55.859375
+Epoch: 25/30 Time in min: 0.001 accuracy: 59.765625
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.0
+Epoch: 27/30 Time in min: 0.001 accuracy: 51.46484375
+Epoch: 28/30 Time in min: 0.001 accuracy: 54.296875
+Epoch: 29/30 Time in min: 0.001 accuracy: 47.16796875
+Epoch: 30/30 Time in min: 0.001 accuracy: 48.6328125
+loss: 260.26814080774784 accuracy: 48.6328125
+total time 0.04051639238993327
+experiment number: 12 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.005 accuracy: 45.1171875
+Epoch: 2/30 Time in min: 0.005 accuracy: 65.33203125
+Epoch: 3/30 Time in min: 0.005 accuracy: 64.6484375
+Epoch: 4/30 Time in min: 0.006 accuracy: 69.921875
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 6/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 7/30 Time in min: 0.005 accuracy: 70.5078125
+Epoch: 8/30 Time in min: 0.005 accuracy: 68.84765625
+Epoch: 9/30 Time in min: 0.005 accuracy: 71.2890625
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 11/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 15/30 Time in min: 0.006 accuracy: 70.1171875
+Epoch: 16/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 17/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 19/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 20/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 22/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 24/30 Time in min: 0.006 accuracy: 73.14453125
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 27/30 Time in min: 0.005 accuracy: 71.77734375
+Epoch: 28/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 29/30 Time in min: 0.005 accuracy: 72.0703125
+Epoch: 30/30 Time in min: 0.006 accuracy: 73.73046875
+loss: 0.002929535578005016 accuracy: 73.73046875
+total time 0.1797322710355123
+experiment number: 12 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 44.82421875
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 3/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 4/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 5/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 6/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 7/30 Time in min: 0.002 accuracy: 52.34375
+Epoch: 8/30 Time in min: 0.002 accuracy: 50.1953125
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.34375
+Epoch: 10/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 11/30 Time in min: 0.002 accuracy: 52.5390625
+Epoch: 12/30 Time in min: 0.002 accuracy: 54.296875
+Epoch: 13/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 14/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 15/30 Time in min: 0.002 accuracy: 55.37109375
+Epoch: 16/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 17/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 18/30 Time in min: 0.002 accuracy: 53.22265625
+Epoch: 19/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 20/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 21/30 Time in min: 0.002 accuracy: 61.03515625
+Epoch: 22/30 Time in min: 0.002 accuracy: 53.22265625
+Epoch: 23/30 Time in min: 0.002 accuracy: 54.8828125
+Epoch: 24/30 Time in min: 0.002 accuracy: 54.8828125
+Epoch: 25/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 26/30 Time in min: 0.002 accuracy: 57.32421875
+Epoch: 27/30 Time in min: 0.002 accuracy: 50.1953125
+Epoch: 28/30 Time in min: 0.002 accuracy: 56.34765625
+Epoch: 29/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 30/30 Time in min: 0.002 accuracy: 52.5390625
+loss: 0.09686329844407737 accuracy: 52.5390625
+total time 0.06344871123631796
+experiment number: 12 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 41.50390625
+Epoch: 2/30 Time in min: 0.001 accuracy: 44.140625
+Epoch: 3/30 Time in min: 0.001 accuracy: 43.06640625
+Epoch: 4/30 Time in min: 0.001 accuracy: 41.2109375
+Epoch: 5/30 Time in min: 0.001 accuracy: 38.96484375
+Epoch: 6/30 Time in min: 0.001 accuracy: 41.50390625
+Epoch: 7/30 Time in min: 0.001 accuracy: 41.30859375
+Epoch: 8/30 Time in min: 0.001 accuracy: 41.89453125
+Epoch: 9/30 Time in min: 0.001 accuracy: 52.34375
+Epoch: 10/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 11/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 12/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 13/30 Time in min: 0.001 accuracy: 48.6328125
+Epoch: 14/30 Time in min: 0.001 accuracy: 47.75390625
+Epoch: 15/30 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 16/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 17/30 Time in min: 0.001 accuracy: 51.07421875
+Epoch: 18/30 Time in min: 0.001 accuracy: 54.1015625
+Epoch: 19/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 20/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 21/30 Time in min: 0.001 accuracy: 51.46484375
+Epoch: 22/30 Time in min: 0.001 accuracy: 57.2265625
+Epoch: 23/30 Time in min: 0.001 accuracy: 60.9375
+Epoch: 24/30 Time in min: 0.001 accuracy: 61.23046875
+Epoch: 25/30 Time in min: 0.001 accuracy: 47.94921875
+Epoch: 26/30 Time in min: 0.001 accuracy: 60.9375
+Epoch: 27/30 Time in min: 0.001 accuracy: 49.609375
+Epoch: 28/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 30/30 Time in min: 0.001 accuracy: 49.31640625
+loss: 553.6771660149097 accuracy: 49.31640625
+total time 0.038432041803995766
+experiment number: 13 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 49.609375
+Epoch: 2/30 Time in min: 0.006 accuracy: 61.62109375
+Epoch: 3/30 Time in min: 0.006 accuracy: 67.67578125
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 5/30 Time in min: 0.006 accuracy: 70.3125
+Epoch: 6/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.1171875
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 18/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 22/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 24/30 Time in min: 0.006 accuracy: 67.1875
+Epoch: 25/30 Time in min: 0.006 accuracy: 69.04296875
+Epoch: 26/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 27/30 Time in min: 0.007 accuracy: 70.8984375
+Epoch: 28/30 Time in min: 0.006 accuracy: 65.91796875
+Epoch: 29/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 30/30 Time in min: 0.006 accuracy: 67.67578125
+loss: 0.004018276202259585 accuracy: 67.67578125
+total time 0.18340492248535156
+experiment number: 13 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 46.58203125
+Epoch: 2/30 Time in min: 0.002 accuracy: 45.60546875
+Epoch: 3/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 4/30 Time in min: 0.002 accuracy: 53.41796875
+Epoch: 5/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 6/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 7/30 Time in min: 0.002 accuracy: 53.7109375
+Epoch: 8/30 Time in min: 0.002 accuracy: 54.6875
+Epoch: 9/30 Time in min: 0.002 accuracy: 54.00390625
+Epoch: 10/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 11/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 12/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 13/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 14/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 15/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 16/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 18/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 19/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 20/30 Time in min: 0.002 accuracy: 54.00390625
+Epoch: 21/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 22/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 23/30 Time in min: 0.002 accuracy: 48.73046875
+Epoch: 24/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 25/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 26/30 Time in min: 0.002 accuracy: 48.6328125
+Epoch: 27/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 28/30 Time in min: 0.002 accuracy: 49.21875
+Epoch: 29/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 30/30 Time in min: 0.002 accuracy: 51.3671875
+loss: 0.005403187475167215 accuracy: 51.3671875
+total time 0.06218490203221639
+experiment number: 13 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 44.04296875
+Epoch: 2/30 Time in min: 0.001 accuracy: 44.62890625
+Epoch: 3/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 4/30 Time in min: 0.001 accuracy: 46.77734375
+Epoch: 5/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 6/30 Time in min: 0.001 accuracy: 44.3359375
+Epoch: 7/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 8/30 Time in min: 0.001 accuracy: 53.02734375
+Epoch: 9/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 10/30 Time in min: 0.001 accuracy: 55.56640625
+Epoch: 11/30 Time in min: 0.001 accuracy: 50.0
+Epoch: 12/30 Time in min: 0.001 accuracy: 58.203125
+Epoch: 13/30 Time in min: 0.001 accuracy: 41.69921875
+Epoch: 14/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 15/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 16/30 Time in min: 0.001 accuracy: 43.84765625
+Epoch: 17/30 Time in min: 0.001 accuracy: 45.41015625
+Epoch: 18/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 19/30 Time in min: 0.001 accuracy: 45.703125
+Epoch: 20/30 Time in min: 0.001 accuracy: 41.796875
+Epoch: 21/30 Time in min: 0.001 accuracy: 36.62109375
+Epoch: 22/30 Time in min: 0.001 accuracy: 28.80859375
+Epoch: 23/30 Time in min: 0.001 accuracy: 34.1796875
+Epoch: 24/30 Time in min: 0.001 accuracy: 42.67578125
+Epoch: 25/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 26/30 Time in min: 0.001 accuracy: 44.62890625
+Epoch: 27/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 28/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 29/30 Time in min: 0.001 accuracy: 47.4609375
+Epoch: 30/30 Time in min: 0.001 accuracy: 48.4375
+loss: 1772.3307318091393 accuracy: 48.4375
+total time 0.038988192876180015
+experiment number: 14 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 35.15625
+Epoch: 2/30 Time in min: 0.006 accuracy: 42.08984375
+Epoch: 3/30 Time in min: 0.006 accuracy: 68.5546875
+Epoch: 4/30 Time in min: 0.005 accuracy: 69.140625
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.23828125
+Epoch: 6/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 8/30 Time in min: 0.006 accuracy: 69.921875
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 10/30 Time in min: 0.005 accuracy: 71.38671875
+Epoch: 11/30 Time in min: 0.005 accuracy: 71.2890625
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 13/30 Time in min: 0.007 accuracy: 70.01953125
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 16/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 17/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 19/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 22/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 26/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 27/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 28/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 29/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.09375
+loss: 0.005186551483348012 accuracy: 71.09375
+total time 0.18092517058054605
+experiment number: 14 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 2/30 Time in min: 0.002 accuracy: 53.7109375
+Epoch: 3/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 4/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 5/30 Time in min: 0.002 accuracy: 44.82421875
+Epoch: 6/30 Time in min: 0.002 accuracy: 46.875
+Epoch: 7/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 8/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 9/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 10/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 11/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 12/30 Time in min: 0.002 accuracy: 52.34375
+Epoch: 13/30 Time in min: 0.002 accuracy: 55.46875
+Epoch: 14/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 15/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 16/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 17/30 Time in min: 0.002 accuracy: 56.93359375
+Epoch: 18/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 19/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 20/30 Time in min: 0.002 accuracy: 56.0546875
+Epoch: 21/30 Time in min: 0.002 accuracy: 55.46875
+Epoch: 22/30 Time in min: 0.002 accuracy: 58.3984375
+Epoch: 23/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 24/30 Time in min: 0.002 accuracy: 56.15234375
+Epoch: 25/30 Time in min: 0.002 accuracy: 63.671875
+Epoch: 26/30 Time in min: 0.002 accuracy: 62.79296875
+Epoch: 27/30 Time in min: 0.002 accuracy: 56.15234375
+Epoch: 28/30 Time in min: 0.002 accuracy: 55.76171875
+Epoch: 29/30 Time in min: 0.002 accuracy: 58.203125
+Epoch: 30/30 Time in min: 0.002 accuracy: 56.73828125
+loss: 0.005181030428502709 accuracy: 56.73828125
+total time 0.06092604398727417
+experiment number: 14 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 54.39453125
+Epoch: 2/30 Time in min: 0.001 accuracy: 49.0234375
+Epoch: 3/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 4/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 5/30 Time in min: 0.001 accuracy: 46.77734375
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 7/30 Time in min: 0.001 accuracy: 41.11328125
+Epoch: 8/30 Time in min: 0.001 accuracy: 40.13671875
+Epoch: 9/30 Time in min: 0.001 accuracy: 41.69921875
+Epoch: 10/30 Time in min: 0.001 accuracy: 45.8984375
+Epoch: 11/30 Time in min: 0.001 accuracy: 43.75
+Epoch: 12/30 Time in min: 0.001 accuracy: 41.9921875
+Epoch: 13/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 14/30 Time in min: 0.001 accuracy: 55.2734375
+Epoch: 15/30 Time in min: 0.001 accuracy: 62.59765625
+Epoch: 16/30 Time in min: 0.001 accuracy: 50.0
+Epoch: 17/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 18/30 Time in min: 0.001 accuracy: 53.3203125
+Epoch: 19/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 20/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 21/30 Time in min: 0.001 accuracy: 51.5625
+Epoch: 22/30 Time in min: 0.001 accuracy: 49.21875
+Epoch: 23/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 24/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 25/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 27/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 28/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 29/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 30/30 Time in min: 0.001 accuracy: 48.33984375
+loss: 0.006087033194489777 accuracy: 48.33984375
+total time 0.03928760687510172
+experiment number: 15 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 61.9140625
+Epoch: 2/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 4/30 Time in min: 0.006 accuracy: 69.921875
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.23828125
+Epoch: 6/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 10/30 Time in min: 0.006 accuracy: 69.3359375
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 12/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 13/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 17/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 18/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 19/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 20/30 Time in min: 0.005 accuracy: 71.19140625
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 22/30 Time in min: 0.007 accuracy: 70.99609375
+Epoch: 23/30 Time in min: 0.007 accuracy: 71.77734375
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 25/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 28/30 Time in min: 0.007 accuracy: 71.6796875
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.58203125
+loss: 0.004984645580407232 accuracy: 71.58203125
+total time 0.18120745023091633
+experiment number: 15 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 46.58203125
+Epoch: 2/30 Time in min: 0.002 accuracy: 43.65234375
+Epoch: 3/30 Time in min: 0.002 accuracy: 47.75390625
+Epoch: 4/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 5/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 6/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 7/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 8/30 Time in min: 0.002 accuracy: 52.34375
+Epoch: 9/30 Time in min: 0.002 accuracy: 51.85546875
+Epoch: 10/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 11/30 Time in min: 0.002 accuracy: 52.734375
+Epoch: 12/30 Time in min: 0.002 accuracy: 50.29296875
+Epoch: 13/30 Time in min: 0.002 accuracy: 53.3203125
+Epoch: 14/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 15/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 16/30 Time in min: 0.002 accuracy: 54.6875
+Epoch: 17/30 Time in min: 0.002 accuracy: 54.6875
+Epoch: 18/30 Time in min: 0.002 accuracy: 54.00390625
+Epoch: 19/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 20/30 Time in min: 0.002 accuracy: 57.32421875
+Epoch: 21/30 Time in min: 0.002 accuracy: 52.83203125
+Epoch: 22/30 Time in min: 0.002 accuracy: 57.51953125
+Epoch: 23/30 Time in min: 0.002 accuracy: 59.66796875
+Epoch: 24/30 Time in min: 0.002 accuracy: 58.3984375
+Epoch: 25/30 Time in min: 0.002 accuracy: 61.1328125
+Epoch: 26/30 Time in min: 0.002 accuracy: 60.15625
+Epoch: 27/30 Time in min: 0.002 accuracy: 56.8359375
+Epoch: 28/30 Time in min: 0.002 accuracy: 63.0859375
+Epoch: 29/30 Time in min: 0.002 accuracy: 58.49609375
+Epoch: 30/30 Time in min: 0.002 accuracy: 63.57421875
+loss: 0.004988755099475384 accuracy: 63.57421875
+total time 0.06446096499760946
+experiment number: 15 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 52.34375
+Epoch: 2/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 3/30 Time in min: 0.001 accuracy: 48.33984375
+Epoch: 4/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 5/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 6/30 Time in min: 0.001 accuracy: 55.6640625
+Epoch: 7/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 8/30 Time in min: 0.001 accuracy: 55.46875
+Epoch: 9/30 Time in min: 0.001 accuracy: 51.26953125
+Epoch: 10/30 Time in min: 0.001 accuracy: 53.02734375
+Epoch: 11/30 Time in min: 0.001 accuracy: 58.49609375
+Epoch: 12/30 Time in min: 0.001 accuracy: 59.27734375
+Epoch: 13/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 14/30 Time in min: 0.001 accuracy: 57.51953125
+Epoch: 15/30 Time in min: 0.001 accuracy: 50.1953125
+Epoch: 16/30 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 17/30 Time in min: 0.001 accuracy: 49.609375
+Epoch: 18/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 19/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 20/30 Time in min: 0.001 accuracy: 58.10546875
+Epoch: 21/30 Time in min: 0.001 accuracy: 52.1484375
+Epoch: 22/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 23/30 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 24/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 25/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 27/30 Time in min: 0.001 accuracy: 47.4609375
+Epoch: 28/30 Time in min: 0.001 accuracy: 48.828125
+Epoch: 29/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 30/30 Time in min: 0.001 accuracy: 48.73046875
+loss: 0.007282504229806364 accuracy: 48.73046875
+total time 0.04065221945444743
+experiment number: 16 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.005 accuracy: 60.7421875
+Epoch: 2/30 Time in min: 0.005 accuracy: 70.21484375
+Epoch: 3/30 Time in min: 0.005 accuracy: 69.140625
+Epoch: 4/30 Time in min: 0.005 accuracy: 70.01953125
+Epoch: 5/30 Time in min: 0.005 accuracy: 69.53125
+Epoch: 6/30 Time in min: 0.005 accuracy: 70.3125
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.3125
+Epoch: 8/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.1171875
+Epoch: 11/30 Time in min: 0.006 accuracy: 69.62890625
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.1171875
+Epoch: 13/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 14/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 15/30 Time in min: 0.007 accuracy: 70.99609375
+Epoch: 16/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 19/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 22/30 Time in min: 0.006 accuracy: 73.6328125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 24/30 Time in min: 0.006 accuracy: 73.828125
+Epoch: 25/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 28/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.875
+loss: 0.0030393785564228892 accuracy: 71.875
+total time 0.18096386591593425
+experiment number: 16 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 2/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 3/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.65625
+Epoch: 5/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 6/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 7/30 Time in min: 0.002 accuracy: 48.33984375
+Epoch: 8/30 Time in min: 0.002 accuracy: 52.734375
+Epoch: 9/30 Time in min: 0.002 accuracy: 54.78515625
+Epoch: 10/30 Time in min: 0.002 accuracy: 56.73828125
+Epoch: 11/30 Time in min: 0.002 accuracy: 54.4921875
+Epoch: 12/30 Time in min: 0.002 accuracy: 53.41796875
+Epoch: 13/30 Time in min: 0.002 accuracy: 54.296875
+Epoch: 14/30 Time in min: 0.002 accuracy: 61.5234375
+Epoch: 15/30 Time in min: 0.002 accuracy: 62.5
+Epoch: 16/30 Time in min: 0.002 accuracy: 58.7890625
+Epoch: 17/30 Time in min: 0.002 accuracy: 59.66796875
+Epoch: 18/30 Time in min: 0.002 accuracy: 59.86328125
+Epoch: 19/30 Time in min: 0.002 accuracy: 59.1796875
+Epoch: 20/30 Time in min: 0.002 accuracy: 64.94140625
+Epoch: 21/30 Time in min: 0.002 accuracy: 60.9375
+Epoch: 22/30 Time in min: 0.002 accuracy: 62.20703125
+Epoch: 23/30 Time in min: 0.002 accuracy: 63.8671875
+Epoch: 24/30 Time in min: 0.002 accuracy: 63.0859375
+Epoch: 25/30 Time in min: 0.002 accuracy: 63.0859375
+Epoch: 26/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 27/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 28/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 29/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 30/30 Time in min: 0.002 accuracy: 51.07421875
+loss: 0.005417752370703965 accuracy: 51.07421875
+total time 0.06351744731267293
+experiment number: 16 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 40.91796875
+Epoch: 2/30 Time in min: 0.001 accuracy: 45.21484375
+Epoch: 3/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 4/30 Time in min: 0.001 accuracy: 45.99609375
+Epoch: 5/30 Time in min: 0.001 accuracy: 45.703125
+Epoch: 6/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 7/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 8/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 9/30 Time in min: 0.001 accuracy: 54.296875
+Epoch: 10/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 11/30 Time in min: 0.001 accuracy: 53.515625
+Epoch: 12/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 13/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 14/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 15/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 16/30 Time in min: 0.001 accuracy: 48.53515625
+Epoch: 17/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 18/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 19/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 20/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 21/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 22/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 23/30 Time in min: 0.001 accuracy: 49.70703125
+Epoch: 24/30 Time in min: 0.001 accuracy: 50.9765625
+Epoch: 25/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 27/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 28/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 29/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 30/30 Time in min: 0.001 accuracy: 51.171875
+loss: 0.005740786960814148 accuracy: 51.171875
+total time 0.041845500469207764
+experiment number: 17 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 44.82421875
+Epoch: 2/30 Time in min: 0.005 accuracy: 60.546875
+Epoch: 3/30 Time in min: 0.006 accuracy: 68.5546875
+Epoch: 4/30 Time in min: 0.005 accuracy: 70.01953125
+Epoch: 5/30 Time in min: 0.005 accuracy: 70.21484375
+Epoch: 6/30 Time in min: 0.005 accuracy: 71.6796875
+Epoch: 7/30 Time in min: 0.006 accuracy: 69.140625
+Epoch: 8/30 Time in min: 0.005 accuracy: 70.99609375
+Epoch: 9/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 11/30 Time in min: 0.005 accuracy: 72.65625
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 13/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 14/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 15/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 16/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 17/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 19/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 20/30 Time in min: 0.005 accuracy: 72.65625
+Epoch: 21/30 Time in min: 0.005 accuracy: 70.80078125
+Epoch: 22/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 23/30 Time in min: 0.005 accuracy: 72.55859375
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 28/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 30/30 Time in min: 0.006 accuracy: 72.55859375
+loss: 0.0030968229984864593 accuracy: 72.55859375
+total time 0.1792470415433248
+experiment number: 17 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 42.67578125
+Epoch: 2/30 Time in min: 0.002 accuracy: 44.23828125
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.875
+Epoch: 4/30 Time in min: 0.002 accuracy: 52.83203125
+Epoch: 5/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 6/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 7/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 8/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 10/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 11/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 12/30 Time in min: 0.002 accuracy: 52.34375
+Epoch: 13/30 Time in min: 0.002 accuracy: 53.7109375
+Epoch: 14/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 15/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 16/30 Time in min: 0.002 accuracy: 54.19921875
+Epoch: 17/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 18/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 19/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 20/30 Time in min: 0.003 accuracy: 47.4609375
+Epoch: 21/30 Time in min: 0.002 accuracy: 53.3203125
+Epoch: 22/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 23/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 24/30 Time in min: 0.002 accuracy: 50.29296875
+Epoch: 25/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 26/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 27/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 28/30 Time in min: 0.002 accuracy: 47.16796875
+Epoch: 29/30 Time in min: 0.002 accuracy: 46.875
+Epoch: 30/30 Time in min: 0.002 accuracy: 50.1953125
+loss: 0.005600329372100532 accuracy: 50.1953125
+total time 0.06378342310587565
+experiment number: 17 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 36.1328125
+Epoch: 2/30 Time in min: 0.001 accuracy: 38.96484375
+Epoch: 3/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 4/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 5/30 Time in min: 0.001 accuracy: 49.21875
+Epoch: 6/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 7/30 Time in min: 0.001 accuracy: 43.45703125
+Epoch: 8/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 9/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 10/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 11/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 12/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 13/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 14/30 Time in min: 0.001 accuracy: 58.69140625
+Epoch: 15/30 Time in min: 0.001 accuracy: 52.24609375
+Epoch: 16/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 17/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 18/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 19/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 20/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 21/30 Time in min: 0.001 accuracy: 48.828125
+Epoch: 22/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 23/30 Time in min: 0.001 accuracy: 43.1640625
+Epoch: 24/30 Time in min: 0.001 accuracy: 45.8984375
+Epoch: 25/30 Time in min: 0.001 accuracy: 30.56640625
+Epoch: 26/30 Time in min: 0.001 accuracy: 44.7265625
+Epoch: 27/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 28/30 Time in min: 0.001 accuracy: 42.7734375
+Epoch: 29/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 30/30 Time in min: 0.001 accuracy: 48.73046875
+loss: 898.1257968768477 accuracy: 48.73046875
+total time 0.04117892980575562
+experiment number: 18 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.005 accuracy: 51.7578125
+Epoch: 2/30 Time in min: 0.006 accuracy: 62.890625
+Epoch: 3/30 Time in min: 0.006 accuracy: 64.6484375
+Epoch: 4/30 Time in min: 0.007 accuracy: 66.50390625
+Epoch: 5/30 Time in min: 0.007 accuracy: 69.62890625
+Epoch: 6/30 Time in min: 0.007 accuracy: 71.77734375
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 8/30 Time in min: 0.007 accuracy: 70.60546875
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 13/30 Time in min: 0.006 accuracy: 73.73046875
+Epoch: 14/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 15/30 Time in min: 0.005 accuracy: 70.80078125
+Epoch: 16/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 17/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 20/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 21/30 Time in min: 0.006 accuracy: 73.92578125
+Epoch: 22/30 Time in min: 0.006 accuracy: 73.6328125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 24/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 25/30 Time in min: 0.006 accuracy: 73.6328125
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 27/30 Time in min: 0.006 accuracy: 72.94921875
+Epoch: 28/30 Time in min: 0.006 accuracy: 74.90234375
+Epoch: 29/30 Time in min: 0.005 accuracy: 80.6640625
+Epoch: 30/30 Time in min: 0.006 accuracy: 79.58984375
+loss: 0.0026267248031217605 accuracy: 79.58984375
+total time 0.18525851964950563
+experiment number: 18 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.8984375
+Epoch: 2/30 Time in min: 0.002 accuracy: 45.5078125
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.58203125
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 5/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 6/30 Time in min: 0.002 accuracy: 53.41796875
+Epoch: 7/30 Time in min: 0.002 accuracy: 57.2265625
+Epoch: 8/30 Time in min: 0.002 accuracy: 59.1796875
+Epoch: 9/30 Time in min: 0.002 accuracy: 60.05859375
+Epoch: 10/30 Time in min: 0.002 accuracy: 59.08203125
+Epoch: 11/30 Time in min: 0.002 accuracy: 45.60546875
+Epoch: 12/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 13/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 14/30 Time in min: 0.002 accuracy: 38.8671875
+Epoch: 15/30 Time in min: 0.002 accuracy: 58.59375
+Epoch: 16/30 Time in min: 0.002 accuracy: 61.9140625
+Epoch: 17/30 Time in min: 0.002 accuracy: 59.66796875
+Epoch: 18/30 Time in min: 0.002 accuracy: 60.3515625
+Epoch: 19/30 Time in min: 0.002 accuracy: 61.03515625
+Epoch: 20/30 Time in min: 0.002 accuracy: 48.2421875
+Epoch: 21/30 Time in min: 0.002 accuracy: 54.98046875
+Epoch: 22/30 Time in min: 0.002 accuracy: 57.12890625
+Epoch: 23/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 24/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 25/30 Time in min: 0.002 accuracy: 45.60546875
+Epoch: 26/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 27/30 Time in min: 0.002 accuracy: 33.10546875
+Epoch: 28/30 Time in min: 0.002 accuracy: 54.39453125
+Epoch: 29/30 Time in min: 0.002 accuracy: 56.0546875
+Epoch: 30/30 Time in min: 0.002 accuracy: 55.078125
+loss: 21.52876365627162 accuracy: 55.078125
+total time 0.06560447613398233
+experiment number: 18 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 42.96875
+Epoch: 2/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 3/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 4/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 5/30 Time in min: 0.001 accuracy: 44.3359375
+Epoch: 6/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 7/30 Time in min: 0.001 accuracy: 53.125
+Epoch: 8/30 Time in min: 0.001 accuracy: 45.5078125
+Epoch: 9/30 Time in min: 0.001 accuracy: 41.6015625
+Epoch: 10/30 Time in min: 0.001 accuracy: 43.75
+Epoch: 11/30 Time in min: 0.001 accuracy: 45.703125
+Epoch: 12/30 Time in min: 0.001 accuracy: 45.01953125
+Epoch: 13/30 Time in min: 0.001 accuracy: 44.7265625
+Epoch: 14/30 Time in min: 0.001 accuracy: 43.359375
+Epoch: 15/30 Time in min: 0.001 accuracy: 42.87109375
+Epoch: 16/30 Time in min: 0.001 accuracy: 43.359375
+Epoch: 17/30 Time in min: 0.001 accuracy: 42.08984375
+Epoch: 18/30 Time in min: 0.001 accuracy: 43.26171875
+Epoch: 19/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 20/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 21/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 22/30 Time in min: 0.001 accuracy: 50.9765625
+Epoch: 23/30 Time in min: 0.001 accuracy: 47.4609375
+Epoch: 24/30 Time in min: 0.001 accuracy: 49.12109375
+Epoch: 25/30 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 26/30 Time in min: 0.001 accuracy: 48.33984375
+Epoch: 27/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 28/30 Time in min: 0.001 accuracy: 49.0234375
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 30/30 Time in min: 0.001 accuracy: 50.390625
+loss: 0.022322369506582618 accuracy: 50.390625
+total time 0.041825465361277264
+experiment number: 19 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 60.83984375
+Epoch: 2/30 Time in min: 0.006 accuracy: 65.0390625
+Epoch: 3/30 Time in min: 0.006 accuracy: 68.84765625
+Epoch: 4/30 Time in min: 0.005 accuracy: 71.97265625
+Epoch: 5/30 Time in min: 0.005 accuracy: 70.3125
+Epoch: 6/30 Time in min: 0.007 accuracy: 69.140625
+Epoch: 7/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 9/30 Time in min: 0.005 accuracy: 71.09375
+Epoch: 10/30 Time in min: 0.005 accuracy: 70.8984375
+Epoch: 11/30 Time in min: 0.005 accuracy: 71.875
+Epoch: 12/30 Time in min: 0.005 accuracy: 71.58203125
+Epoch: 13/30 Time in min: 0.005 accuracy: 71.875
+Epoch: 14/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 15/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 16/30 Time in min: 0.005 accuracy: 71.875
+Epoch: 17/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 18/30 Time in min: 0.005 accuracy: 71.19140625
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 20/30 Time in min: 0.005 accuracy: 71.38671875
+Epoch: 21/30 Time in min: 0.005 accuracy: 72.265625
+Epoch: 22/30 Time in min: 0.005 accuracy: 72.4609375
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 24/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 25/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 27/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 28/30 Time in min: 0.005 accuracy: 71.484375
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 30/30 Time in min: 0.005 accuracy: 72.16796875
+loss: 0.0029968676390126348 accuracy: 72.16796875
+total time 0.17339342832565308
+experiment number: 19 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 27.9296875
+Epoch: 2/30 Time in min: 0.002 accuracy: 45.41015625
+Epoch: 3/30 Time in min: 0.002 accuracy: 56.25
+Epoch: 4/30 Time in min: 0.002 accuracy: 55.6640625
+Epoch: 5/30 Time in min: 0.002 accuracy: 59.765625
+Epoch: 6/30 Time in min: 0.002 accuracy: 51.171875
+Epoch: 7/30 Time in min: 0.002 accuracy: 59.765625
+Epoch: 8/30 Time in min: 0.002 accuracy: 54.39453125
+Epoch: 9/30 Time in min: 0.002 accuracy: 56.0546875
+Epoch: 10/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 11/30 Time in min: 0.002 accuracy: 54.1015625
+Epoch: 12/30 Time in min: 0.002 accuracy: 58.0078125
+Epoch: 13/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 14/30 Time in min: 0.002 accuracy: 53.41796875
+Epoch: 15/30 Time in min: 0.002 accuracy: 58.10546875
+Epoch: 16/30 Time in min: 0.002 accuracy: 65.234375
+Epoch: 17/30 Time in min: 0.002 accuracy: 61.5234375
+Epoch: 18/30 Time in min: 0.002 accuracy: 60.64453125
+Epoch: 19/30 Time in min: 0.002 accuracy: 56.34765625
+Epoch: 20/30 Time in min: 0.002 accuracy: 54.00390625
+Epoch: 21/30 Time in min: 0.002 accuracy: 57.03125
+Epoch: 22/30 Time in min: 0.002 accuracy: 58.7890625
+Epoch: 23/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 24/30 Time in min: 0.002 accuracy: 55.6640625
+Epoch: 25/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 26/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 27/30 Time in min: 0.002 accuracy: 55.6640625
+Epoch: 28/30 Time in min: 0.002 accuracy: 53.61328125
+Epoch: 29/30 Time in min: 0.002 accuracy: 57.32421875
+Epoch: 30/30 Time in min: 0.002 accuracy: 57.421875
+loss: 0.024905104539357126 accuracy: 57.421875
+total time 0.06344728072484335
+experiment number: 19 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 2/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 3/30 Time in min: 0.001 accuracy: 59.9609375
+Epoch: 4/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 5/30 Time in min: 0.001 accuracy: 44.04296875
+Epoch: 6/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 7/30 Time in min: 0.001 accuracy: 42.87109375
+Epoch: 8/30 Time in min: 0.001 accuracy: 52.63671875
+Epoch: 9/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 10/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 11/30 Time in min: 0.001 accuracy: 45.1171875
+Epoch: 12/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 13/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 14/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 15/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 16/30 Time in min: 0.001 accuracy: 55.95703125
+Epoch: 17/30 Time in min: 0.001 accuracy: 56.34765625
+Epoch: 18/30 Time in min: 0.001 accuracy: 58.203125
+Epoch: 19/30 Time in min: 0.001 accuracy: 61.5234375
+Epoch: 20/30 Time in min: 0.001 accuracy: 62.3046875
+Epoch: 21/30 Time in min: 0.001 accuracy: 65.91796875
+Epoch: 22/30 Time in min: 0.001 accuracy: 60.3515625
+Epoch: 23/30 Time in min: 0.001 accuracy: 57.91015625
+Epoch: 24/30 Time in min: 0.001 accuracy: 57.421875
+Epoch: 25/30 Time in min: 0.001 accuracy: 60.9375
+Epoch: 26/30 Time in min: 0.001 accuracy: 62.79296875
+Epoch: 27/30 Time in min: 0.001 accuracy: 61.23046875
+Epoch: 28/30 Time in min: 0.001 accuracy: 62.98828125
+Epoch: 29/30 Time in min: 0.001 accuracy: 60.15625
+Epoch: 30/30 Time in min: 0.001 accuracy: 55.078125
+loss: 3.561047764495015 accuracy: 55.078125
+total time 0.04065172672271729
+experiment number: 20 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 66.40625
+Epoch: 2/30 Time in min: 0.006 accuracy: 68.84765625
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.1171875
+Epoch: 4/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 6/30 Time in min: 0.007 accuracy: 70.8984375
+Epoch: 7/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 9/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 10/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 12/30 Time in min: 0.007 accuracy: 71.875
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 17/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 18/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 19/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 20/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 22/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 28/30 Time in min: 0.006 accuracy: 73.33984375
+Epoch: 29/30 Time in min: 0.006 accuracy: 72.94921875
+Epoch: 30/30 Time in min: 0.006 accuracy: 73.73046875
+loss: 0.0029367908427957445 accuracy: 73.73046875
+total time 0.1849802811940511
+experiment number: 20 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.41015625
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.55859375
+Epoch: 3/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 4/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 5/30 Time in min: 0.002 accuracy: 47.75390625
+Epoch: 6/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 7/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 8/30 Time in min: 0.003 accuracy: 60.3515625
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 10/30 Time in min: 0.002 accuracy: 50.9765625
+Epoch: 11/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 12/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 13/30 Time in min: 0.002 accuracy: 50.29296875
+Epoch: 14/30 Time in min: 0.002 accuracy: 54.00390625
+Epoch: 15/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 16/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 18/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 19/30 Time in min: 0.002 accuracy: 54.8828125
+Epoch: 20/30 Time in min: 0.002 accuracy: 53.3203125
+Epoch: 21/30 Time in min: 0.002 accuracy: 54.98046875
+Epoch: 22/30 Time in min: 0.002 accuracy: 57.421875
+Epoch: 23/30 Time in min: 0.002 accuracy: 57.51953125
+Epoch: 24/30 Time in min: 0.002 accuracy: 53.515625
+Epoch: 25/30 Time in min: 0.002 accuracy: 56.73828125
+Epoch: 26/30 Time in min: 0.002 accuracy: 55.859375
+Epoch: 27/30 Time in min: 0.002 accuracy: 55.76171875
+Epoch: 28/30 Time in min: 0.002 accuracy: 58.0078125
+Epoch: 29/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 30/30 Time in min: 0.002 accuracy: 58.30078125
+loss: 0.005408560449723154 accuracy: 58.30078125
+total time 0.0637839953104655
+experiment number: 20 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 2/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 3/30 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 4/30 Time in min: 0.001 accuracy: 58.7890625
+Epoch: 5/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.4609375
+Epoch: 7/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 8/30 Time in min: 0.001 accuracy: 57.91015625
+Epoch: 9/30 Time in min: 0.001 accuracy: 57.03125
+Epoch: 10/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 11/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 12/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 13/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 14/30 Time in min: 0.001 accuracy: 50.09765625
+Epoch: 15/30 Time in min: 0.001 accuracy: 51.85546875
+Epoch: 16/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 17/30 Time in min: 0.001 accuracy: 52.83203125
+Epoch: 18/30 Time in min: 0.001 accuracy: 53.02734375
+Epoch: 19/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 20/30 Time in min: 0.001 accuracy: 56.34765625
+Epoch: 21/30 Time in min: 0.001 accuracy: 51.5625
+Epoch: 22/30 Time in min: 0.001 accuracy: 51.171875
+Epoch: 23/30 Time in min: 0.001 accuracy: 51.5625
+Epoch: 24/30 Time in min: 0.001 accuracy: 53.125
+Epoch: 25/30 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 26/30 Time in min: 0.001 accuracy: 52.34375
+Epoch: 27/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 28/30 Time in min: 0.001 accuracy: 52.1484375
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 30/30 Time in min: 0.001 accuracy: 50.87890625
+loss: 0.0058740596869029105 accuracy: 50.87890625
+total time 0.04079967737197876
+experiment number: 21 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 63.671875
+Epoch: 2/30 Time in min: 0.006 accuracy: 63.671875
+Epoch: 3/30 Time in min: 0.006 accuracy: 69.62890625
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 5/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 9/30 Time in min: 0.007 accuracy: 71.484375
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 22/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 25/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 28/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 29/30 Time in min: 0.006 accuracy: 72.94921875
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.6796875
+loss: 0.003069338417844847 accuracy: 71.6796875
+total time 0.1884213964144389
+experiment number: 21 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 44.23828125
+Epoch: 2/30 Time in min: 0.002 accuracy: 43.9453125
+Epoch: 3/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 4/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 5/30 Time in min: 0.002 accuracy: 50.5859375
+Epoch: 6/30 Time in min: 0.002 accuracy: 59.47265625
+Epoch: 7/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 8/30 Time in min: 0.002 accuracy: 52.63671875
+Epoch: 9/30 Time in min: 0.002 accuracy: 48.2421875
+Epoch: 10/30 Time in min: 0.002 accuracy: 56.34765625
+Epoch: 11/30 Time in min: 0.002 accuracy: 54.8828125
+Epoch: 12/30 Time in min: 0.002 accuracy: 56.54296875
+Epoch: 13/30 Time in min: 0.002 accuracy: 54.39453125
+Epoch: 14/30 Time in min: 0.002 accuracy: 58.49609375
+Epoch: 15/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 16/30 Time in min: 0.002 accuracy: 57.8125
+Epoch: 17/30 Time in min: 0.002 accuracy: 59.9609375
+Epoch: 18/30 Time in min: 0.002 accuracy: 59.375
+Epoch: 19/30 Time in min: 0.002 accuracy: 53.7109375
+Epoch: 20/30 Time in min: 0.002 accuracy: 60.64453125
+Epoch: 21/30 Time in min: 0.002 accuracy: 57.91015625
+Epoch: 22/30 Time in min: 0.002 accuracy: 58.984375
+Epoch: 23/30 Time in min: 0.002 accuracy: 60.7421875
+Epoch: 24/30 Time in min: 0.002 accuracy: 55.76171875
+Epoch: 25/30 Time in min: 0.002 accuracy: 58.59375
+Epoch: 26/30 Time in min: 0.002 accuracy: 56.15234375
+Epoch: 27/30 Time in min: 0.002 accuracy: 58.10546875
+Epoch: 28/30 Time in min: 0.002 accuracy: 57.421875
+Epoch: 29/30 Time in min: 0.002 accuracy: 56.4453125
+Epoch: 30/30 Time in min: 0.002 accuracy: 56.54296875
+loss: 0.005067978228908032 accuracy: 56.54296875
+total time 0.06309720277786254
+experiment number: 21 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 2/30 Time in min: 0.001 accuracy: 41.9921875
+Epoch: 3/30 Time in min: 0.001 accuracy: 48.6328125
+Epoch: 4/30 Time in min: 0.001 accuracy: 44.62890625
+Epoch: 5/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 6/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 7/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 8/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 9/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 10/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 11/30 Time in min: 0.001 accuracy: 52.44140625
+Epoch: 12/30 Time in min: 0.001 accuracy: 54.19921875
+Epoch: 13/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 14/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 15/30 Time in min: 0.001 accuracy: 51.85546875
+Epoch: 16/30 Time in min: 0.001 accuracy: 46.19140625
+Epoch: 17/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 18/30 Time in min: 0.001 accuracy: 48.53515625
+Epoch: 19/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 20/30 Time in min: 0.001 accuracy: 55.46875
+Epoch: 21/30 Time in min: 0.001 accuracy: 54.00390625
+Epoch: 22/30 Time in min: 0.001 accuracy: 56.25
+Epoch: 23/30 Time in min: 0.001 accuracy: 58.0078125
+Epoch: 24/30 Time in min: 0.001 accuracy: 60.25390625
+Epoch: 25/30 Time in min: 0.001 accuracy: 62.59765625
+Epoch: 26/30 Time in min: 0.001 accuracy: 61.62109375
+Epoch: 27/30 Time in min: 0.001 accuracy: 61.9140625
+Epoch: 28/30 Time in min: 0.001 accuracy: 60.83984375
+Epoch: 29/30 Time in min: 0.001 accuracy: 60.25390625
+Epoch: 30/30 Time in min: 0.001 accuracy: 60.25390625
+loss: 5.326730068074539 accuracy: 60.25390625
+total time 0.043002672990163165
+experiment number: 22 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 60.7421875
+Epoch: 2/30 Time in min: 0.006 accuracy: 68.75
+Epoch: 3/30 Time in min: 0.006 accuracy: 69.23828125
+Epoch: 4/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 5/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 6/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 7/30 Time in min: 0.006 accuracy: 68.84765625
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 11/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 18/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 22/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 24/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 25/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 28/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 29/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 30/30 Time in min: 0.006 accuracy: 71.484375
+loss: 0.003112616977887228 accuracy: 71.484375
+total time 0.18636434078216552
+experiment number: 22 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.3125
+Epoch: 2/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 3/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 4/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 5/30 Time in min: 0.002 accuracy: 56.0546875
+Epoch: 6/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 7/30 Time in min: 0.002 accuracy: 45.80078125
+Epoch: 8/30 Time in min: 0.002 accuracy: 51.07421875
+Epoch: 9/30 Time in min: 0.002 accuracy: 63.0859375
+Epoch: 10/30 Time in min: 0.002 accuracy: 58.49609375
+Epoch: 11/30 Time in min: 0.002 accuracy: 52.5390625
+Epoch: 12/30 Time in min: 0.002 accuracy: 61.62109375
+Epoch: 13/30 Time in min: 0.002 accuracy: 63.57421875
+Epoch: 14/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 15/30 Time in min: 0.002 accuracy: 60.25390625
+Epoch: 16/30 Time in min: 0.002 accuracy: 61.71875
+Epoch: 17/30 Time in min: 0.002 accuracy: 58.203125
+Epoch: 18/30 Time in min: 0.002 accuracy: 57.12890625
+Epoch: 19/30 Time in min: 0.002 accuracy: 51.3671875
+Epoch: 20/30 Time in min: 0.002 accuracy: 56.0546875
+Epoch: 21/30 Time in min: 0.002 accuracy: 54.58984375
+Epoch: 22/30 Time in min: 0.002 accuracy: 56.25
+Epoch: 23/30 Time in min: 0.002 accuracy: 57.12890625
+Epoch: 24/30 Time in min: 0.002 accuracy: 58.203125
+Epoch: 25/30 Time in min: 0.002 accuracy: 63.0859375
+Epoch: 26/30 Time in min: 0.002 accuracy: 63.37890625
+Epoch: 27/30 Time in min: 0.002 accuracy: 57.51953125
+Epoch: 28/30 Time in min: 0.002 accuracy: 60.9375
+Epoch: 29/30 Time in min: 0.002 accuracy: 65.72265625
+Epoch: 30/30 Time in min: 0.002 accuracy: 59.08203125
+loss: 0.053119734046049416 accuracy: 59.08203125
+total time 0.06327191988627116
+experiment number: 22 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 40.13671875
+Epoch: 2/30 Time in min: 0.001 accuracy: 48.2421875
+Epoch: 3/30 Time in min: 0.001 accuracy: 46.2890625
+Epoch: 4/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 5/30 Time in min: 0.001 accuracy: 48.92578125
+Epoch: 6/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 7/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 8/30 Time in min: 0.001 accuracy: 46.09375
+Epoch: 9/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 10/30 Time in min: 0.001 accuracy: 45.5078125
+Epoch: 11/30 Time in min: 0.001 accuracy: 40.4296875
+Epoch: 12/30 Time in min: 0.001 accuracy: 41.2109375
+Epoch: 13/30 Time in min: 0.001 accuracy: 41.2109375
+Epoch: 14/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 15/30 Time in min: 0.001 accuracy: 56.25
+Epoch: 16/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 17/30 Time in min: 0.001 accuracy: 44.23828125
+Epoch: 18/30 Time in min: 0.001 accuracy: 43.75
+Epoch: 19/30 Time in min: 0.001 accuracy: 47.94921875
+Epoch: 20/30 Time in min: 0.001 accuracy: 53.80859375
+Epoch: 21/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 22/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 23/30 Time in min: 0.001 accuracy: 50.0
+Epoch: 24/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 25/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 26/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 27/30 Time in min: 0.001 accuracy: 49.609375
+Epoch: 28/30 Time in min: 0.001 accuracy: 49.609375
+Epoch: 29/30 Time in min: 0.001 accuracy: 51.46484375
+Epoch: 30/30 Time in min: 0.001 accuracy: 52.1484375
+loss: 0.011935814167372882 accuracy: 52.1484375
+total time 0.04283711512883504
+experiment number: 23 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 62.40234375
+Epoch: 2/30 Time in min: 0.006 accuracy: 66.89453125
+Epoch: 3/30 Time in min: 0.006 accuracy: 66.69921875
+Epoch: 4/30 Time in min: 0.006 accuracy: 69.140625
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.04296875
+Epoch: 6/30 Time in min: 0.006 accuracy: 69.53125
+Epoch: 7/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 10/30 Time in min: 0.006 accuracy: 69.23828125
+Epoch: 11/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.21484375
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 14/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 16/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 17/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 18/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 20/30 Time in min: 0.006 accuracy: 73.4375
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 22/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 23/30 Time in min: 0.006 accuracy: 73.4375
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 25/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 27/30 Time in min: 0.006 accuracy: 73.4375
+Epoch: 28/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 29/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 30/30 Time in min: 0.006 accuracy: 76.5625
+loss: 0.002972118672914803 accuracy: 76.5625
+total time 0.1840572714805603
+experiment number: 23 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.41015625
+Epoch: 2/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 3/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 4/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 5/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 6/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 7/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 8/30 Time in min: 0.002 accuracy: 50.1953125
+Epoch: 9/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 10/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 11/30 Time in min: 0.002 accuracy: 46.484375
+Epoch: 12/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 13/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 14/30 Time in min: 0.002 accuracy: 45.703125
+Epoch: 15/30 Time in min: 0.002 accuracy: 55.17578125
+Epoch: 16/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 18/30 Time in min: 0.002 accuracy: 48.2421875
+Epoch: 19/30 Time in min: 0.002 accuracy: 55.76171875
+Epoch: 20/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 21/30 Time in min: 0.002 accuracy: 59.08203125
+Epoch: 22/30 Time in min: 0.002 accuracy: 55.37109375
+Epoch: 23/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 24/30 Time in min: 0.002 accuracy: 56.0546875
+Epoch: 25/30 Time in min: 0.002 accuracy: 55.46875
+Epoch: 26/30 Time in min: 0.002 accuracy: 55.6640625
+Epoch: 27/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 28/30 Time in min: 0.002 accuracy: 55.37109375
+Epoch: 29/30 Time in min: 0.002 accuracy: 55.37109375
+Epoch: 30/30 Time in min: 0.002 accuracy: 56.640625
+loss: 0.005083924334030598 accuracy: 56.640625
+total time 0.0644345998764038
+experiment number: 23 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 2/30 Time in min: 0.001 accuracy: 44.04296875
+Epoch: 3/30 Time in min: 0.001 accuracy: 48.53515625
+Epoch: 4/30 Time in min: 0.001 accuracy: 45.01953125
+Epoch: 5/30 Time in min: 0.001 accuracy: 56.0546875
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 7/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 8/30 Time in min: 0.001 accuracy: 44.23828125
+Epoch: 9/30 Time in min: 0.001 accuracy: 47.75390625
+Epoch: 10/30 Time in min: 0.001 accuracy: 42.578125
+Epoch: 11/30 Time in min: 0.001 accuracy: 41.9921875
+Epoch: 12/30 Time in min: 0.001 accuracy: 51.953125
+Epoch: 13/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 14/30 Time in min: 0.001 accuracy: 43.1640625
+Epoch: 15/30 Time in min: 0.001 accuracy: 46.19140625
+Epoch: 16/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 17/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 18/30 Time in min: 0.001 accuracy: 50.29296875
+Epoch: 19/30 Time in min: 0.001 accuracy: 55.078125
+Epoch: 20/30 Time in min: 0.001 accuracy: 62.20703125
+Epoch: 21/30 Time in min: 0.001 accuracy: 56.0546875
+Epoch: 22/30 Time in min: 0.001 accuracy: 46.484375
+Epoch: 23/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 24/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 25/30 Time in min: 0.001 accuracy: 47.16796875
+Epoch: 26/30 Time in min: 0.001 accuracy: 47.8515625
+Epoch: 27/30 Time in min: 0.001 accuracy: 50.0
+Epoch: 28/30 Time in min: 0.001 accuracy: 54.6875
+Epoch: 29/30 Time in min: 0.001 accuracy: 60.05859375
+Epoch: 30/30 Time in min: 0.001 accuracy: 58.203125
+loss: 50.03464876767248 accuracy: 58.203125
+total time 0.04313400983810425
+experiment number: 24 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 50.5859375
+Epoch: 2/30 Time in min: 0.006 accuracy: 49.12109375
+Epoch: 3/30 Time in min: 0.006 accuracy: 49.70703125
+Epoch: 4/30 Time in min: 0.006 accuracy: 49.4140625
+Epoch: 5/30 Time in min: 0.006 accuracy: 48.828125
+Epoch: 6/30 Time in min: 0.006 accuracy: 50.390625
+Epoch: 7/30 Time in min: 0.006 accuracy: 50.78125
+Epoch: 8/30 Time in min: 0.006 accuracy: 49.51171875
+Epoch: 9/30 Time in min: 0.006 accuracy: 49.90234375
+Epoch: 10/30 Time in min: 0.006 accuracy: 49.4140625
+Epoch: 11/30 Time in min: 0.006 accuracy: 50.5859375
+Epoch: 12/30 Time in min: 0.006 accuracy: 50.48828125
+Epoch: 13/30 Time in min: 0.006 accuracy: 49.51171875
+Epoch: 14/30 Time in min: 0.006 accuracy: 49.90234375
+Epoch: 15/30 Time in min: 0.006 accuracy: 49.8046875
+Epoch: 16/30 Time in min: 0.006 accuracy: 50.87890625
+Epoch: 17/30 Time in min: 0.006 accuracy: 50.29296875
+Epoch: 18/30 Time in min: 0.006 accuracy: 51.07421875
+Epoch: 19/30 Time in min: 0.006 accuracy: 49.31640625
+Epoch: 20/30 Time in min: 0.006 accuracy: 50.78125
+Epoch: 21/30 Time in min: 0.006 accuracy: 48.73046875
+Epoch: 22/30 Time in min: 0.006 accuracy: 48.828125
+Epoch: 23/30 Time in min: 0.006 accuracy: 49.4140625
+Epoch: 24/30 Time in min: 0.006 accuracy: 48.828125
+Epoch: 25/30 Time in min: 0.006 accuracy: 51.3671875
+Epoch: 26/30 Time in min: 0.006 accuracy: 49.609375
+Epoch: 27/30 Time in min: 0.006 accuracy: 51.07421875
+Epoch: 28/30 Time in min: 0.006 accuracy: 49.8046875
+Epoch: 29/30 Time in min: 0.006 accuracy: 49.8046875
+Epoch: 30/30 Time in min: 0.006 accuracy: 50.68359375
+loss: 0.008215646375901997 accuracy: 50.68359375
+total time 0.1838040033976237
+experiment number: 24 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 46.2890625
+Epoch: 2/30 Time in min: 0.002 accuracy: 44.921875
+Epoch: 3/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 4/30 Time in min: 0.002 accuracy: 45.3125
+Epoch: 5/30 Time in min: 0.002 accuracy: 46.77734375
+Epoch: 6/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 7/30 Time in min: 0.002 accuracy: 48.73046875
+Epoch: 8/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 9/30 Time in min: 0.002 accuracy: 46.97265625
+Epoch: 10/30 Time in min: 0.002 accuracy: 28.7109375
+Epoch: 11/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 12/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 13/30 Time in min: 0.002 accuracy: 47.65625
+Epoch: 14/30 Time in min: 0.002 accuracy: 53.61328125
+Epoch: 15/30 Time in min: 0.002 accuracy: 54.1015625
+Epoch: 16/30 Time in min: 0.002 accuracy: 58.203125
+Epoch: 17/30 Time in min: 0.002 accuracy: 21.97265625
+Epoch: 18/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 19/30 Time in min: 0.002 accuracy: 46.2890625
+Epoch: 20/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 21/30 Time in min: 0.002 accuracy: 44.43359375
+Epoch: 22/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 23/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 24/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 25/30 Time in min: 0.002 accuracy: 46.77734375
+Epoch: 26/30 Time in min: 0.002 accuracy: 47.16796875
+Epoch: 27/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 28/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 29/30 Time in min: 0.002 accuracy: 48.33984375
+Epoch: 30/30 Time in min: 0.002 accuracy: 48.828125
+loss: 0.01015124551486224 accuracy: 48.828125
+total time 0.06367934544881185
+experiment number: 24 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 45.703125
+Epoch: 2/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 3/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 4/30 Time in min: 0.001 accuracy: 43.359375
+Epoch: 5/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 7/30 Time in min: 0.001 accuracy: 55.76171875
+Epoch: 8/30 Time in min: 0.001 accuracy: 55.859375
+Epoch: 9/30 Time in min: 0.001 accuracy: 54.1015625
+Epoch: 10/30 Time in min: 0.001 accuracy: 57.03125
+Epoch: 11/30 Time in min: 0.001 accuracy: 59.375
+Epoch: 12/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 13/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 14/30 Time in min: 0.001 accuracy: 50.48828125
+Epoch: 15/30 Time in min: 0.001 accuracy: 54.58984375
+Epoch: 16/30 Time in min: 0.001 accuracy: 58.3984375
+Epoch: 17/30 Time in min: 0.001 accuracy: 48.828125
+Epoch: 18/30 Time in min: 0.001 accuracy: 57.6171875
+Epoch: 19/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 20/30 Time in min: 0.001 accuracy: 49.12109375
+Epoch: 21/30 Time in min: 0.001 accuracy: 51.3671875
+Epoch: 22/30 Time in min: 0.001 accuracy: 52.9296875
+Epoch: 23/30 Time in min: 0.001 accuracy: 54.1015625
+Epoch: 24/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 25/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 26/30 Time in min: 0.001 accuracy: 54.98046875
+Epoch: 27/30 Time in min: 0.001 accuracy: 56.4453125
+Epoch: 28/30 Time in min: 0.001 accuracy: 62.01171875
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.29296875
+Epoch: 30/30 Time in min: 0.001 accuracy: 60.15625
+loss: 32.75081932079047 accuracy: 60.15625
+total time 0.04197695255279541
+experiment number: 25 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 50.87890625
+Epoch: 2/30 Time in min: 0.006 accuracy: 65.625
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 4/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 6/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 7/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 9/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 11/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.5078125
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 16/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 17/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 19/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.265625
+Epoch: 22/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 26/30 Time in min: 0.006 accuracy: 74.609375
+Epoch: 27/30 Time in min: 0.006 accuracy: 77.24609375
+Epoch: 28/30 Time in min: 0.006 accuracy: 78.515625
+Epoch: 29/30 Time in min: 0.006 accuracy: 81.15234375
+Epoch: 30/30 Time in min: 0.006 accuracy: 82.91015625
+loss: 0.0024624747165944427 accuracy: 82.91015625
+total time 0.18561591704686484
+experiment number: 25 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.703125
+Epoch: 2/30 Time in min: 0.002 accuracy: 48.046875
+Epoch: 3/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 4/30 Time in min: 0.002 accuracy: 56.640625
+Epoch: 5/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 6/30 Time in min: 0.002 accuracy: 56.54296875
+Epoch: 7/30 Time in min: 0.002 accuracy: 63.28125
+Epoch: 8/30 Time in min: 0.002 accuracy: 54.19921875
+Epoch: 9/30 Time in min: 0.002 accuracy: 47.65625
+Epoch: 10/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 11/30 Time in min: 0.002 accuracy: 25.29296875
+Epoch: 12/30 Time in min: 0.002 accuracy: 46.2890625
+Epoch: 13/30 Time in min: 0.002 accuracy: 52.63671875
+Epoch: 14/30 Time in min: 0.002 accuracy: 55.6640625
+Epoch: 15/30 Time in min: 0.002 accuracy: 54.19921875
+Epoch: 16/30 Time in min: 0.002 accuracy: 65.13671875
+Epoch: 17/30 Time in min: 0.002 accuracy: 53.90625
+Epoch: 18/30 Time in min: 0.002 accuracy: 21.58203125
+Epoch: 19/30 Time in min: 0.002 accuracy: 23.6328125
+Epoch: 20/30 Time in min: 0.002 accuracy: 39.55078125
+Epoch: 21/30 Time in min: 0.002 accuracy: 54.19921875
+Epoch: 22/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 23/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 24/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 25/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 26/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 27/30 Time in min: 0.002 accuracy: 54.58984375
+Epoch: 28/30 Time in min: 0.002 accuracy: 57.6171875
+Epoch: 29/30 Time in min: 0.002 accuracy: 57.03125
+Epoch: 30/30 Time in min: 0.002 accuracy: 57.32421875
+loss: 0.008804228564258665 accuracy: 57.32421875
+total time 0.06208634773890177
+experiment number: 25 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 44.140625
+Epoch: 2/30 Time in min: 0.001 accuracy: 43.84765625
+Epoch: 3/30 Time in min: 0.001 accuracy: 43.06640625
+Epoch: 4/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 5/30 Time in min: 0.001 accuracy: 45.01953125
+Epoch: 6/30 Time in min: 0.001 accuracy: 39.94140625
+Epoch: 7/30 Time in min: 0.001 accuracy: 40.625
+Epoch: 8/30 Time in min: 0.001 accuracy: 41.6015625
+Epoch: 9/30 Time in min: 0.001 accuracy: 42.08984375
+Epoch: 10/30 Time in min: 0.001 accuracy: 42.7734375
+Epoch: 11/30 Time in min: 0.001 accuracy: 43.84765625
+Epoch: 12/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 13/30 Time in min: 0.001 accuracy: 55.2734375
+Epoch: 14/30 Time in min: 0.001 accuracy: 55.37109375
+Epoch: 15/30 Time in min: 0.001 accuracy: 55.76171875
+Epoch: 16/30 Time in min: 0.001 accuracy: 56.0546875
+Epoch: 17/30 Time in min: 0.001 accuracy: 57.51953125
+Epoch: 18/30 Time in min: 0.002 accuracy: 50.87890625
+Epoch: 19/30 Time in min: 0.002 accuracy: 53.125
+Epoch: 20/30 Time in min: 0.001 accuracy: 59.47265625
+Epoch: 21/30 Time in min: 0.001 accuracy: 59.1796875
+Epoch: 22/30 Time in min: 0.001 accuracy: 55.2734375
+Epoch: 23/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 24/30 Time in min: 0.001 accuracy: 49.31640625
+Epoch: 25/30 Time in min: 0.001 accuracy: 52.34375
+Epoch: 26/30 Time in min: 0.001 accuracy: 41.2109375
+Epoch: 27/30 Time in min: 0.001 accuracy: 43.1640625
+Epoch: 28/30 Time in min: 0.001 accuracy: 43.84765625
+Epoch: 29/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 30/30 Time in min: 0.001 accuracy: 51.26953125
+loss: 196.3049335964024 accuracy: 51.26953125
+total time 0.043118007977803546
+experiment number: 26 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.008 accuracy: 46.97265625
+Epoch: 2/30 Time in min: 0.006 accuracy: 64.94140625
+Epoch: 3/30 Time in min: 0.006 accuracy: 68.359375
+Epoch: 4/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 5/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 6/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 12/30 Time in min: 0.006 accuracy: 69.82421875
+Epoch: 13/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 16/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 18/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 20/30 Time in min: 0.006 accuracy: 75.68359375
+Epoch: 21/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 22/30 Time in min: 0.006 accuracy: 77.1484375
+Epoch: 23/30 Time in min: 0.006 accuracy: 81.25
+Epoch: 24/30 Time in min: 0.006 accuracy: 84.08203125
+Epoch: 25/30 Time in min: 0.006 accuracy: 78.90625
+Epoch: 26/30 Time in min: 0.006 accuracy: 82.32421875
+Epoch: 27/30 Time in min: 0.006 accuracy: 79.39453125
+Epoch: 28/30 Time in min: 0.006 accuracy: 86.5234375
+Epoch: 29/30 Time in min: 0.006 accuracy: 84.5703125
+Epoch: 30/30 Time in min: 0.006 accuracy: 86.81640625
+loss: 0.002029065028182231 accuracy: 86.81640625
+total time 0.18360771735509238
+experiment number: 26 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 43.84765625
+Epoch: 2/30 Time in min: 0.002 accuracy: 48.53515625
+Epoch: 3/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 4/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 5/30 Time in min: 0.002 accuracy: 46.6796875
+Epoch: 6/30 Time in min: 0.002 accuracy: 44.23828125
+Epoch: 7/30 Time in min: 0.002 accuracy: 21.97265625
+Epoch: 8/30 Time in min: 0.002 accuracy: 47.265625
+Epoch: 9/30 Time in min: 0.002 accuracy: 52.44140625
+Epoch: 10/30 Time in min: 0.002 accuracy: 44.23828125
+Epoch: 11/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 12/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 13/30 Time in min: 0.002 accuracy: 48.73046875
+Epoch: 14/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 15/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 16/30 Time in min: 0.002 accuracy: 49.21875
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 18/30 Time in min: 0.002 accuracy: 49.90234375
+Epoch: 19/30 Time in min: 0.002 accuracy: 48.828125
+Epoch: 20/30 Time in min: 0.002 accuracy: 49.4140625
+Epoch: 21/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 22/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 23/30 Time in min: 0.002 accuracy: 50.78125
+Epoch: 24/30 Time in min: 0.002 accuracy: 50.390625
+Epoch: 25/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 26/30 Time in min: 0.002 accuracy: 50.68359375
+Epoch: 27/30 Time in min: 0.002 accuracy: 49.12109375
+Epoch: 28/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 29/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 30/30 Time in min: 0.002 accuracy: 50.0
+loss: 0.005621304560918361 accuracy: 50.0
+total time 0.06236902077992757
+experiment number: 26 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 49.4140625
+Epoch: 2/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 3/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 4/30 Time in min: 0.001 accuracy: 44.53125
+Epoch: 5/30 Time in min: 0.001 accuracy: 46.77734375
+Epoch: 6/30 Time in min: 0.001 accuracy: 45.01953125
+Epoch: 7/30 Time in min: 0.001 accuracy: 60.05859375
+Epoch: 8/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 9/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 10/30 Time in min: 0.001 accuracy: 50.5859375
+Epoch: 11/30 Time in min: 0.001 accuracy: 53.41796875
+Epoch: 12/30 Time in min: 0.001 accuracy: 48.828125
+Epoch: 13/30 Time in min: 0.001 accuracy: 53.61328125
+Epoch: 14/30 Time in min: 0.001 accuracy: 53.80859375
+Epoch: 15/30 Time in min: 0.001 accuracy: 56.25
+Epoch: 16/30 Time in min: 0.001 accuracy: 56.8359375
+Epoch: 17/30 Time in min: 0.001 accuracy: 59.08203125
+Epoch: 18/30 Time in min: 0.001 accuracy: 58.59375
+Epoch: 19/30 Time in min: 0.001 accuracy: 55.078125
+Epoch: 20/30 Time in min: 0.001 accuracy: 56.34765625
+Epoch: 21/30 Time in min: 0.001 accuracy: 57.03125
+Epoch: 22/30 Time in min: 0.001 accuracy: 52.734375
+Epoch: 23/30 Time in min: 0.001 accuracy: 53.3203125
+Epoch: 24/30 Time in min: 0.001 accuracy: 56.73828125
+Epoch: 25/30 Time in min: 0.001 accuracy: 54.00390625
+Epoch: 26/30 Time in min: 0.001 accuracy: 57.12890625
+Epoch: 27/30 Time in min: 0.001 accuracy: 48.73046875
+Epoch: 28/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 30/30 Time in min: 0.001 accuracy: 53.7109375
+loss: 2.438239788811188 accuracy: 53.7109375
+total time 0.042707701524098717
+experiment number: 27 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 64.0625
+Epoch: 2/30 Time in min: 0.006 accuracy: 66.40625
+Epoch: 3/30 Time in min: 0.006 accuracy: 69.53125
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 5/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 6/30 Time in min: 0.008 accuracy: 70.21484375
+Epoch: 7/30 Time in min: 0.007 accuracy: 71.58203125
+Epoch: 8/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 12/30 Time in min: 0.006 accuracy: 72.4609375
+Epoch: 13/30 Time in min: 0.007 accuracy: 71.58203125
+Epoch: 14/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 15/30 Time in min: 0.007 accuracy: 73.33984375
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 18/30 Time in min: 0.007 accuracy: 71.19140625
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 20/30 Time in min: 0.007 accuracy: 73.14453125
+Epoch: 21/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 22/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 23/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 24/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 26/30 Time in min: 0.007 accuracy: 71.875
+Epoch: 27/30 Time in min: 0.007 accuracy: 72.55859375
+Epoch: 28/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 29/30 Time in min: 0.006 accuracy: 75.68359375
+Epoch: 30/30 Time in min: 0.007 accuracy: 70.41015625
+loss: 0.003285828744992614 accuracy: 70.41015625
+total time 0.19702221949895224
+experiment number: 27 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 44.62890625
+Epoch: 2/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.09375
+Epoch: 4/30 Time in min: 0.002 accuracy: 47.36328125
+Epoch: 5/30 Time in min: 0.002 accuracy: 49.21875
+Epoch: 6/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 7/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 8/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 9/30 Time in min: 0.002 accuracy: 50.48828125
+Epoch: 10/30 Time in min: 0.002 accuracy: 54.78515625
+Epoch: 11/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 12/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 13/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 14/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 15/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 16/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.31640625
+Epoch: 18/30 Time in min: 0.002 accuracy: 48.6328125
+Epoch: 19/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 20/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 21/30 Time in min: 0.002 accuracy: 51.66015625
+Epoch: 22/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 23/30 Time in min: 0.002 accuracy: 54.78515625
+Epoch: 24/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 25/30 Time in min: 0.002 accuracy: 60.25390625
+Epoch: 26/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 27/30 Time in min: 0.002 accuracy: 55.2734375
+Epoch: 28/30 Time in min: 0.002 accuracy: 53.80859375
+Epoch: 29/30 Time in min: 0.002 accuracy: 48.92578125
+Epoch: 30/30 Time in min: 0.002 accuracy: 55.95703125
+loss: 0.00537830637767911 accuracy: 55.95703125
+total time 0.0686057170232137
+experiment number: 27 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 41.6015625
+Epoch: 2/30 Time in min: 0.001 accuracy: 44.82421875
+Epoch: 3/30 Time in min: 0.001 accuracy: 46.97265625
+Epoch: 4/30 Time in min: 0.001 accuracy: 47.36328125
+Epoch: 5/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 6/30 Time in min: 0.001 accuracy: 44.7265625
+Epoch: 7/30 Time in min: 0.001 accuracy: 47.16796875
+Epoch: 8/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 9/30 Time in min: 0.001 accuracy: 48.53515625
+Epoch: 10/30 Time in min: 0.001 accuracy: 48.6328125
+Epoch: 11/30 Time in min: 0.001 accuracy: 51.66015625
+Epoch: 12/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 13/30 Time in min: 0.001 accuracy: 48.33984375
+Epoch: 14/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 15/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 16/30 Time in min: 0.001 accuracy: 53.90625
+Epoch: 17/30 Time in min: 0.001 accuracy: 50.1953125
+Epoch: 18/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 19/30 Time in min: 0.001 accuracy: 55.078125
+Epoch: 20/30 Time in min: 0.001 accuracy: 59.1796875
+Epoch: 21/30 Time in min: 0.001 accuracy: 56.4453125
+Epoch: 22/30 Time in min: 0.001 accuracy: 58.7890625
+Epoch: 23/30 Time in min: 0.001 accuracy: 57.6171875
+Epoch: 24/30 Time in min: 0.001 accuracy: 57.03125
+Epoch: 25/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 26/30 Time in min: 0.001 accuracy: 50.68359375
+Epoch: 27/30 Time in min: 0.001 accuracy: 50.0
+Epoch: 28/30 Time in min: 0.001 accuracy: 51.26953125
+Epoch: 29/30 Time in min: 0.001 accuracy: 50.29296875
+Epoch: 30/30 Time in min: 0.001 accuracy: 52.63671875
+loss: 0.010675164521671832 accuracy: 52.63671875
+total time 0.04401555856068929
+experiment number: 28 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.007 accuracy: 63.8671875
+Epoch: 2/30 Time in min: 0.006 accuracy: 69.43359375
+Epoch: 3/30 Time in min: 0.007 accuracy: 70.41015625
+Epoch: 4/30 Time in min: 0.007 accuracy: 71.19140625
+Epoch: 5/30 Time in min: 0.007 accuracy: 72.265625
+Epoch: 6/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 7/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 9/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.16796875
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 15/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 16/30 Time in min: 0.006 accuracy: 73.046875
+Epoch: 17/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 18/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 21/30 Time in min: 0.006 accuracy: 72.8515625
+Epoch: 22/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 23/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 24/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 26/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 27/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 28/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 29/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 30/30 Time in min: 0.006 accuracy: 72.55859375
+loss: 0.0030112346867099404 accuracy: 72.55859375
+total time 0.1919562021891276
+experiment number: 28 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.21484375
+Epoch: 2/30 Time in min: 0.002 accuracy: 45.1171875
+Epoch: 3/30 Time in min: 0.002 accuracy: 45.80078125
+Epoch: 4/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 5/30 Time in min: 0.002 accuracy: 56.15234375
+Epoch: 6/30 Time in min: 0.002 accuracy: 47.65625
+Epoch: 7/30 Time in min: 0.002 accuracy: 57.421875
+Epoch: 8/30 Time in min: 0.002 accuracy: 46.38671875
+Epoch: 9/30 Time in min: 0.002 accuracy: 49.51171875
+Epoch: 10/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 11/30 Time in min: 0.002 accuracy: 51.7578125
+Epoch: 12/30 Time in min: 0.002 accuracy: 49.609375
+Epoch: 13/30 Time in min: 0.002 accuracy: 51.46484375
+Epoch: 14/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 15/30 Time in min: 0.002 accuracy: 53.41796875
+Epoch: 16/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 17/30 Time in min: 0.002 accuracy: 49.8046875
+Epoch: 18/30 Time in min: 0.002 accuracy: 51.5625
+Epoch: 19/30 Time in min: 0.002 accuracy: 63.18359375
+Epoch: 20/30 Time in min: 0.002 accuracy: 55.56640625
+Epoch: 21/30 Time in min: 0.002 accuracy: 54.39453125
+Epoch: 22/30 Time in min: 0.002 accuracy: 55.46875
+Epoch: 23/30 Time in min: 0.002 accuracy: 55.2734375
+Epoch: 24/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 25/30 Time in min: 0.002 accuracy: 56.8359375
+Epoch: 26/30 Time in min: 0.002 accuracy: 55.95703125
+Epoch: 27/30 Time in min: 0.002 accuracy: 58.69140625
+Epoch: 28/30 Time in min: 0.002 accuracy: 49.0234375
+Epoch: 29/30 Time in min: 0.002 accuracy: 55.078125
+Epoch: 30/30 Time in min: 0.002 accuracy: 56.93359375
+loss: 0.005020407028496265 accuracy: 56.93359375
+total time 0.06349239349365235
+experiment number: 28 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 2/30 Time in min: 0.001 accuracy: 49.90234375
+Epoch: 3/30 Time in min: 0.001 accuracy: 51.85546875
+Epoch: 4/30 Time in min: 0.001 accuracy: 55.6640625
+Epoch: 5/30 Time in min: 0.001 accuracy: 50.390625
+Epoch: 6/30 Time in min: 0.001 accuracy: 54.00390625
+Epoch: 7/30 Time in min: 0.001 accuracy: 46.6796875
+Epoch: 8/30 Time in min: 0.001 accuracy: 53.61328125
+Epoch: 9/30 Time in min: 0.001 accuracy: 55.95703125
+Epoch: 10/30 Time in min: 0.001 accuracy: 45.703125
+Epoch: 11/30 Time in min: 0.001 accuracy: 48.4375
+Epoch: 12/30 Time in min: 0.001 accuracy: 45.21484375
+Epoch: 13/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 14/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 15/30 Time in min: 0.001 accuracy: 48.046875
+Epoch: 16/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 17/30 Time in min: 0.001 accuracy: 48.14453125
+Epoch: 18/30 Time in min: 0.001 accuracy: 49.51171875
+Epoch: 19/30 Time in min: 0.001 accuracy: 50.87890625
+Epoch: 20/30 Time in min: 0.001 accuracy: 54.78515625
+Epoch: 21/30 Time in min: 0.001 accuracy: 58.0078125
+Epoch: 22/30 Time in min: 0.001 accuracy: 46.484375
+Epoch: 23/30 Time in min: 0.001 accuracy: 44.23828125
+Epoch: 24/30 Time in min: 0.001 accuracy: 53.7109375
+Epoch: 25/30 Time in min: 0.001 accuracy: 50.1953125
+Epoch: 26/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 27/30 Time in min: 0.001 accuracy: 49.8046875
+Epoch: 28/30 Time in min: 0.001 accuracy: 50.78125
+Epoch: 29/30 Time in min: 0.001 accuracy: 51.46484375
+Epoch: 30/30 Time in min: 0.001 accuracy: 50.87890625
+loss: 0.011110847466625273 accuracy: 50.87890625
+total time 0.040807700157165526
+experiment number: 29 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 46.58203125
+Epoch: 2/30 Time in min: 0.006 accuracy: 66.11328125
+Epoch: 3/30 Time in min: 0.006 accuracy: 69.921875
+Epoch: 4/30 Time in min: 0.006 accuracy: 69.7265625
+Epoch: 5/30 Time in min: 0.006 accuracy: 69.62890625
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.09375
+Epoch: 7/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.703125
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 10/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 11/30 Time in min: 0.006 accuracy: 72.75390625
+Epoch: 12/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 13/30 Time in min: 0.006 accuracy: 72.36328125
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 15/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 16/30 Time in min: 0.006 accuracy: 70.41015625
+Epoch: 17/30 Time in min: 0.006 accuracy: 67.7734375
+Epoch: 18/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 20/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 22/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 24/30 Time in min: 0.006 accuracy: 74.12109375
+Epoch: 25/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 26/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 27/30 Time in min: 0.006 accuracy: 75.5859375
+Epoch: 28/30 Time in min: 0.006 accuracy: 72.65625
+Epoch: 29/30 Time in min: 0.006 accuracy: 75.5859375
+Epoch: 30/30 Time in min: 0.006 accuracy: 73.92578125
+loss: 0.002931909984908998 accuracy: 73.92578125
+total time 0.1829375743865967
+experiment number: 29 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 48.14453125
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.4609375
+Epoch: 3/30 Time in min: 0.002 accuracy: 46.484375
+Epoch: 4/30 Time in min: 0.002 accuracy: 48.4375
+Epoch: 5/30 Time in min: 0.002 accuracy: 48.73046875
+Epoch: 6/30 Time in min: 0.002 accuracy: 57.51953125
+Epoch: 7/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 8/30 Time in min: 0.002 accuracy: 56.4453125
+Epoch: 9/30 Time in min: 0.002 accuracy: 58.49609375
+Epoch: 10/30 Time in min: 0.002 accuracy: 52.24609375
+Epoch: 11/30 Time in min: 0.002 accuracy: 54.1015625
+Epoch: 12/30 Time in min: 0.002 accuracy: 58.7890625
+Epoch: 13/30 Time in min: 0.002 accuracy: 59.9609375
+Epoch: 14/30 Time in min: 0.002 accuracy: 62.3046875
+Epoch: 15/30 Time in min: 0.002 accuracy: 61.03515625
+Epoch: 16/30 Time in min: 0.002 accuracy: 58.88671875
+Epoch: 17/30 Time in min: 0.002 accuracy: 62.79296875
+Epoch: 18/30 Time in min: 0.003 accuracy: 60.7421875
+Epoch: 19/30 Time in min: 0.002 accuracy: 58.49609375
+Epoch: 20/30 Time in min: 0.002 accuracy: 59.9609375
+Epoch: 21/30 Time in min: 0.002 accuracy: 50.09765625
+Epoch: 22/30 Time in min: 0.002 accuracy: 50.0
+Epoch: 23/30 Time in min: 0.002 accuracy: 49.70703125
+Epoch: 24/30 Time in min: 0.002 accuracy: 51.26953125
+Epoch: 25/30 Time in min: 0.002 accuracy: 52.05078125
+Epoch: 26/30 Time in min: 0.002 accuracy: 53.3203125
+Epoch: 27/30 Time in min: 0.002 accuracy: 52.1484375
+Epoch: 28/30 Time in min: 0.002 accuracy: 52.9296875
+Epoch: 29/30 Time in min: 0.002 accuracy: 51.953125
+Epoch: 30/30 Time in min: 0.002 accuracy: 52.5390625
+loss: 0.005902097385842353 accuracy: 52.5390625
+total time 0.06689612865447998
+experiment number: 29 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 39.55078125
+Epoch: 2/30 Time in min: 0.001 accuracy: 41.89453125
+Epoch: 3/30 Time in min: 0.001 accuracy: 42.28515625
+Epoch: 4/30 Time in min: 0.001 accuracy: 45.80078125
+Epoch: 5/30 Time in min: 0.001 accuracy: 43.9453125
+Epoch: 6/30 Time in min: 0.001 accuracy: 42.67578125
+Epoch: 7/30 Time in min: 0.001 accuracy: 46.58203125
+Epoch: 8/30 Time in min: 0.001 accuracy: 47.65625
+Epoch: 9/30 Time in min: 0.001 accuracy: 46.875
+Epoch: 10/30 Time in min: 0.001 accuracy: 45.99609375
+Epoch: 11/30 Time in min: 0.001 accuracy: 49.609375
+Epoch: 12/30 Time in min: 0.001 accuracy: 44.921875
+Epoch: 13/30 Time in min: 0.001 accuracy: 42.578125
+Epoch: 14/30 Time in min: 0.001 accuracy: 42.578125
+Epoch: 15/30 Time in min: 0.001 accuracy: 41.89453125
+Epoch: 16/30 Time in min: 0.001 accuracy: 43.1640625
+Epoch: 17/30 Time in min: 0.001 accuracy: 45.60546875
+Epoch: 18/30 Time in min: 0.001 accuracy: 42.3828125
+Epoch: 19/30 Time in min: 0.001 accuracy: 44.62890625
+Epoch: 20/30 Time in min: 0.001 accuracy: 47.55859375
+Epoch: 21/30 Time in min: 0.001 accuracy: 51.7578125
+Epoch: 22/30 Time in min: 0.001 accuracy: 53.90625
+Epoch: 23/30 Time in min: 0.001 accuracy: 56.34765625
+Epoch: 24/30 Time in min: 0.001 accuracy: 57.12890625
+Epoch: 25/30 Time in min: 0.001 accuracy: 57.71484375
+Epoch: 26/30 Time in min: 0.001 accuracy: 58.984375
+Epoch: 27/30 Time in min: 0.001 accuracy: 59.08203125
+Epoch: 28/30 Time in min: 0.001 accuracy: 57.8125
+Epoch: 29/30 Time in min: 0.001 accuracy: 56.93359375
+Epoch: 30/30 Time in min: 0.001 accuracy: 56.34765625
+loss: 4.183662625495344 accuracy: 56.34765625
+total time 0.04341483116149902
+experiment number: 30 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.006 accuracy: 62.79296875
+Epoch: 2/30 Time in min: 0.006 accuracy: 68.75
+Epoch: 3/30 Time in min: 0.006 accuracy: 70.3125
+Epoch: 4/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 5/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 6/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 7/30 Time in min: 0.006 accuracy: 71.19140625
+Epoch: 8/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 9/30 Time in min: 0.006 accuracy: 71.97265625
+Epoch: 10/30 Time in min: 0.006 accuracy: 70.60546875
+Epoch: 11/30 Time in min: 0.006 accuracy: 71.58203125
+Epoch: 12/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 13/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 14/30 Time in min: 0.006 accuracy: 70.80078125
+Epoch: 15/30 Time in min: 0.006 accuracy: 71.2890625
+Epoch: 16/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 17/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 18/30 Time in min: 0.006 accuracy: 70.8984375
+Epoch: 19/30 Time in min: 0.006 accuracy: 71.38671875
+Epoch: 20/30 Time in min: 0.006 accuracy: 72.0703125
+Epoch: 21/30 Time in min: 0.006 accuracy: 71.6796875
+Epoch: 22/30 Time in min: 0.006 accuracy: 71.875
+Epoch: 23/30 Time in min: 0.006 accuracy: 71.484375
+Epoch: 24/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 25/30 Time in min: 0.006 accuracy: 72.55859375
+Epoch: 26/30 Time in min: 0.006 accuracy: 73.2421875
+Epoch: 27/30 Time in min: 0.006 accuracy: 71.77734375
+Epoch: 28/30 Time in min: 0.006 accuracy: 70.99609375
+Epoch: 29/30 Time in min: 0.006 accuracy: 70.01953125
+Epoch: 30/30 Time in min: 0.006 accuracy: 70.8984375
+loss: 0.0031293850333895534 accuracy: 70.8984375
+total time 0.18232934474945067
+experiment number: 30 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.002 accuracy: 45.80078125
+Epoch: 2/30 Time in min: 0.002 accuracy: 47.0703125
+Epoch: 3/30 Time in min: 0.002 accuracy: 47.8515625
+Epoch: 4/30 Time in min: 0.002 accuracy: 45.99609375
+Epoch: 5/30 Time in min: 0.002 accuracy: 43.26171875
+Epoch: 6/30 Time in min: 0.002 accuracy: 27.24609375
+Epoch: 7/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 8/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 9/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 10/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 11/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 12/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 13/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 14/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 15/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 16/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 17/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 18/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 19/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 20/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 21/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 22/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 23/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 24/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 25/30 Time in min: 0.002 accuracy: 24.70703125
+Epoch: 26/30 Time in min: 0.002 accuracy: 24.70703125
+Epoch: 27/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 28/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 29/30 Time in min: 0.002 accuracy: 25.87890625
+Epoch: 30/30 Time in min: 0.002 accuracy: 24.70703125
+loss: 0.010830768384039402 accuracy: 24.70703125
+total time 0.06514944632848103
+experiment number: 30 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.001 accuracy: 40.625
+Epoch: 2/30 Time in min: 0.001 accuracy: 40.4296875
+Epoch: 3/30 Time in min: 0.001 accuracy: 43.75
+Epoch: 4/30 Time in min: 0.001 accuracy: 38.28125
+Epoch: 5/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 6/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 7/30 Time in min: 0.001 accuracy: 46.38671875
+Epoch: 8/30 Time in min: 0.001 accuracy: 47.0703125
+Epoch: 9/30 Time in min: 0.001 accuracy: 46.484375
+Epoch: 10/30 Time in min: 0.001 accuracy: 52.24609375
+Epoch: 11/30 Time in min: 0.001 accuracy: 53.7109375
+Epoch: 12/30 Time in min: 0.001 accuracy: 57.71484375
+Epoch: 13/30 Time in min: 0.001 accuracy: 47.265625
+Epoch: 14/30 Time in min: 0.001 accuracy: 51.46484375
+Epoch: 15/30 Time in min: 0.001 accuracy: 49.0234375
+Epoch: 16/30 Time in min: 0.001 accuracy: 53.02734375
+Epoch: 17/30 Time in min: 0.001 accuracy: 54.4921875
+Epoch: 18/30 Time in min: 0.001 accuracy: 54.19921875
+Epoch: 19/30 Time in min: 0.001 accuracy: 53.22265625
+Epoch: 20/30 Time in min: 0.001 accuracy: 53.61328125
+Epoch: 21/30 Time in min: 0.001 accuracy: 56.54296875
+Epoch: 22/30 Time in min: 0.001 accuracy: 58.7890625
+Epoch: 23/30 Time in min: 0.001 accuracy: 57.2265625
+Epoch: 24/30 Time in min: 0.001 accuracy: 56.54296875
+Epoch: 25/30 Time in min: 0.001 accuracy: 57.71484375
+Epoch: 26/30 Time in min: 0.001 accuracy: 59.47265625
+Epoch: 27/30 Time in min: 0.001 accuracy: 58.984375
+Epoch: 28/30 Time in min: 0.001 accuracy: 58.0078125
+Epoch: 29/30 Time in min: 0.001 accuracy: 57.91015625
+Epoch: 30/30 Time in min: 0.001 accuracy: 58.203125
+loss: 13.848735358566046 accuracy: 58.203125
+total time 0.0402579665184021
+experiment repetitions: 30, steps: 100, walker amount: 4000mean: {'N_layer_GRU': 72.81901041666667, 'Convolutional_NN': 53.219401041666664, 'Fully_Connected_NN': 53.235677083333336}, 
+variance: {'N_layer_GRU': 6.142484107929587, 'Convolutional_NN': 6.616044971844702, 'Fully_Connected_NN': 3.586589664355878}
+recreating dataset: train_set_40000_1000.csv
+walk amount: 40000 walk length: 1000 alpha range: (1.1, 3) 
+experiment number: 1 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.471 accuracy: 78.21400316455697
+Epoch: 2/30 Time in min: 0.474 accuracy: 86.53085443037975
+Epoch: 3/30 Time in min: 0.461 accuracy: 90.89200949367088
+Epoch: 4/30 Time in min: 0.467 accuracy: 95.09493670886076
+Epoch: 5/30 Time in min: 0.450 accuracy: 96.66732594936708
+Epoch: 6/30 Time in min: 0.469 accuracy: 95.25316455696202
+Epoch: 7/30 Time in min: 0.453 accuracy: 97.16178797468355
+Epoch: 8/30 Time in min: 0.463 accuracy: 97.21123417721519
+Epoch: 9/30 Time in min: 0.461 accuracy: 97.35957278481013
+Epoch: 10/30 Time in min: 0.463 accuracy: 96.81566455696202
+Epoch: 11/30 Time in min: 0.461 accuracy: 97.55735759493672
+Epoch: 12/30 Time in min: 0.458 accuracy: 97.66613924050634
+Epoch: 13/30 Time in min: 0.449 accuracy: 96.64754746835443
+Epoch: 14/30 Time in min: 0.472 accuracy: 96.88488924050634
+Epoch: 15/30 Time in min: 0.460 accuracy: 96.08386075949366
+Epoch: 16/30 Time in min: 0.467 accuracy: 96.8057753164557
+Epoch: 17/30 Time in min: 0.467 accuracy: 97.15189873417721
+Epoch: 18/30 Time in min: 0.473 accuracy: 97.1815664556962
+Epoch: 19/30 Time in min: 0.467 accuracy: 97.56724683544303
+Epoch: 20/30 Time in min: 0.465 accuracy: 97.43868670886076
+Epoch: 21/30 Time in min: 0.462 accuracy: 98.02215189873418
+Epoch: 22/30 Time in min: 0.457 accuracy: 98.08148734177216
+Epoch: 23/30 Time in min: 0.467 accuracy: 97.64636075949366
+Epoch: 24/30 Time in min: 0.478 accuracy: 96.59810126582279
+Epoch: 25/30 Time in min: 0.468 accuracy: 97.53757911392405
+Epoch: 26/30 Time in min: 0.453 accuracy: 97.62658227848101
+Epoch: 27/30 Time in min: 0.460 accuracy: 97.8243670886076
+Epoch: 28/30 Time in min: 0.456 accuracy: 97.4189082278481
+Epoch: 29/30 Time in min: 0.455 accuracy: 96.9442246835443
+Epoch: 30/30 Time in min: 0.453 accuracy: 97.53757911392405
+loss: 0.0003250450606139589 accuracy: 97.53757911392405
+total time 14.123394127686819
+experiment number: 1 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.029 accuracy: 48.22982594936709
+Epoch: 2/30 Time in min: 0.028 accuracy: 44.97626582278481
+Epoch: 3/30 Time in min: 0.027 accuracy: 40.33821202531646
+Epoch: 4/30 Time in min: 0.028 accuracy: 48.714398734177216
+Epoch: 5/30 Time in min: 0.027 accuracy: 52.71954113924051
+Epoch: 6/30 Time in min: 0.027 accuracy: 54.89517405063291
+Epoch: 7/30 Time in min: 0.027 accuracy: 42.16772151898734
+Epoch: 8/30 Time in min: 0.028 accuracy: 52.49208860759494
+Epoch: 9/30 Time in min: 0.027 accuracy: 47.923259493670884
+Epoch: 10/30 Time in min: 0.027 accuracy: 25.019778481012654
+Epoch: 11/30 Time in min: 0.027 accuracy: 24.75276898734177
+Epoch: 12/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 13/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 14/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 15/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 16/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 17/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 18/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 19/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 20/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 21/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 22/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 23/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 24/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 25/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 26/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 27/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 28/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 29/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 30/30 Time in min: 0.027 accuracy: 25.09889240506329
+loss: 0.010833024365615241 accuracy: 25.09889240506329
+total time 1.0344748338063559
+experiment number: 1 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.016 accuracy: 33.267405063291136
+Epoch: 2/30 Time in min: 0.016 accuracy: 40.16020569620253
+Epoch: 3/30 Time in min: 0.016 accuracy: 40.377768987341774
+Epoch: 4/30 Time in min: 0.016 accuracy: 41.910601265822784
+Epoch: 5/30 Time in min: 0.016 accuracy: 43.06764240506329
+Epoch: 6/30 Time in min: 0.016 accuracy: 42.15783227848101
+Epoch: 7/30 Time in min: 0.016 accuracy: 42.93908227848101
+Epoch: 8/30 Time in min: 0.016 accuracy: 44.936708860759495
+Epoch: 9/30 Time in min: 0.017 accuracy: 44.936708860759495
+Epoch: 10/30 Time in min: 0.016 accuracy: 45.33227848101266
+Epoch: 11/30 Time in min: 0.016 accuracy: 45.90585443037975
+Epoch: 12/30 Time in min: 0.016 accuracy: 46.22231012658228
+Epoch: 13/30 Time in min: 0.016 accuracy: 46.964003164556964
+Epoch: 14/30 Time in min: 0.015 accuracy: 47.280458860759495
+Epoch: 15/30 Time in min: 0.015 accuracy: 48.75395569620253
+Epoch: 16/30 Time in min: 0.015 accuracy: 47.39912974683544
+Epoch: 17/30 Time in min: 0.015 accuracy: 48.299050632911396
+Epoch: 18/30 Time in min: 0.015 accuracy: 49.020965189873415
+Epoch: 19/30 Time in min: 0.015 accuracy: 48.783623417721515
+Epoch: 20/30 Time in min: 0.016 accuracy: 48.59572784810127
+Epoch: 21/30 Time in min: 0.015 accuracy: 49.179193037974684
+Epoch: 22/30 Time in min: 0.016 accuracy: 48.239715189873415
+Epoch: 23/30 Time in min: 0.015 accuracy: 49.564873417721515
+Epoch: 24/30 Time in min: 0.016 accuracy: 50.52412974683544
+Epoch: 25/30 Time in min: 0.015 accuracy: 50.73180379746836
+Epoch: 26/30 Time in min: 0.015 accuracy: 50.07911392405063
+Epoch: 27/30 Time in min: 0.015 accuracy: 50.32634493670886
+Epoch: 28/30 Time in min: 0.015 accuracy: 49.357199367088604
+Epoch: 29/30 Time in min: 0.015 accuracy: 50.84058544303798
+Epoch: 30/30 Time in min: 0.016 accuracy: 51.75039556962025
+loss: 0.007032567411189592 accuracy: 51.75039556962025
+total time 0.6549964547157288
+experiment number: 2 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.466 accuracy: 71.98378164556962
+Epoch: 2/30 Time in min: 0.460 accuracy: 73.49683544303798
+Epoch: 3/30 Time in min: 0.466 accuracy: 73.32871835443038
+Epoch: 4/30 Time in min: 0.462 accuracy: 73.78362341772153
+Epoch: 5/30 Time in min: 0.460 accuracy: 73.65506329113924
+Epoch: 6/30 Time in min: 0.456 accuracy: 73.87262658227847
+Epoch: 7/30 Time in min: 0.466 accuracy: 73.94185126582279
+Epoch: 8/30 Time in min: 0.470 accuracy: 73.96162974683544
+Epoch: 9/30 Time in min: 0.467 accuracy: 73.45727848101265
+Epoch: 10/30 Time in min: 0.471 accuracy: 72.99248417721519
+Epoch: 11/30 Time in min: 0.466 accuracy: 74.01107594936708
+Epoch: 12/30 Time in min: 0.477 accuracy: 73.96162974683544
+Epoch: 13/30 Time in min: 0.470 accuracy: 73.38805379746836
+Epoch: 14/30 Time in min: 0.469 accuracy: 74.04074367088607
+Epoch: 15/30 Time in min: 0.470 accuracy: 73.90229430379746
+Epoch: 16/30 Time in min: 0.463 accuracy: 74.00118670886076
+Epoch: 17/30 Time in min: 0.474 accuracy: 73.96162974683544
+Epoch: 18/30 Time in min: 0.475 accuracy: 73.71439873417721
+Epoch: 19/30 Time in min: 0.471 accuracy: 73.83306962025317
+Epoch: 20/30 Time in min: 0.470 accuracy: 73.90229430379746
+Epoch: 21/30 Time in min: 0.478 accuracy: 73.86273734177216
+Epoch: 22/30 Time in min: 0.477 accuracy: 74.02096518987342
+Epoch: 23/30 Time in min: 0.467 accuracy: 74.02096518987342
+Epoch: 24/30 Time in min: 0.456 accuracy: 73.87262658227847
+Epoch: 25/30 Time in min: 0.466 accuracy: 74.09018987341773
+Epoch: 26/30 Time in min: 0.466 accuracy: 73.94185126582279
+Epoch: 27/30 Time in min: 0.467 accuracy: 74.03085443037975
+Epoch: 28/30 Time in min: 0.476 accuracy: 74.09018987341773
+Epoch: 29/30 Time in min: 0.476 accuracy: 73.7440664556962
+Epoch: 30/30 Time in min: 0.470 accuracy: 74.10996835443038
+loss: 0.005473496327530357 accuracy: 74.10996835443038
+total time 14.246130804220835
+experiment number: 2 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.028 accuracy: 54.26226265822785
+Epoch: 2/30 Time in min: 0.027 accuracy: 47.29034810126582
+Epoch: 3/30 Time in min: 0.027 accuracy: 55.83465189873418
+Epoch: 4/30 Time in min: 0.027 accuracy: 48.991297468354425
+Epoch: 5/30 Time in min: 0.027 accuracy: 49.515427215189874
+Epoch: 6/30 Time in min: 0.027 accuracy: 47.67602848101266
+Epoch: 7/30 Time in min: 0.027 accuracy: 32.14003164556962
+Epoch: 8/30 Time in min: 0.027 accuracy: 45.39161392405063
+Epoch: 9/30 Time in min: 0.027 accuracy: 47.44857594936709
+Epoch: 10/30 Time in min: 0.027 accuracy: 50.73180379746836
+Epoch: 11/30 Time in min: 0.027 accuracy: 50.49446202531646
+Epoch: 12/30 Time in min: 0.027 accuracy: 56.93235759493671
+Epoch: 13/30 Time in min: 0.027 accuracy: 56.43789556962025
+Epoch: 14/30 Time in min: 0.027 accuracy: 52.48219936708861
+Epoch: 15/30 Time in min: 0.027 accuracy: 56.44778481012658
+Epoch: 16/30 Time in min: 0.027 accuracy: 55.78520569620253
+Epoch: 17/30 Time in min: 0.027 accuracy: 55.33030063291139
+Epoch: 18/30 Time in min: 0.027 accuracy: 58.84098101265823
+Epoch: 19/30 Time in min: 0.027 accuracy: 56.92246835443038
+Epoch: 20/30 Time in min: 0.027 accuracy: 58.20806962025317
+Epoch: 21/30 Time in min: 0.027 accuracy: 58.65308544303798
+Epoch: 22/30 Time in min: 0.027 accuracy: 55.38963607594937
+Epoch: 23/30 Time in min: 0.027 accuracy: 59.55300632911392
+Epoch: 24/30 Time in min: 0.027 accuracy: 59.80023734177215
+Epoch: 25/30 Time in min: 0.027 accuracy: 48.269382911392405
+Epoch: 26/30 Time in min: 0.027 accuracy: 59.31566455696202
+Epoch: 27/30 Time in min: 0.027 accuracy: 59.73101265822785
+Epoch: 28/30 Time in min: 0.027 accuracy: 60.04746835443038
+Epoch: 29/30 Time in min: 0.027 accuracy: 59.71123417721519
+Epoch: 30/30 Time in min: 0.027 accuracy: 60.85838607594937
+loss: 0.005116354909878743 accuracy: 60.85838607594937
+total time 1.022176194190979
+experiment number: 2 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.017 accuracy: 44.7685917721519
+Epoch: 2/30 Time in min: 0.017 accuracy: 25.92958860759494
+Epoch: 3/30 Time in min: 0.016 accuracy: 43.4434335443038
+Epoch: 4/30 Time in min: 0.016 accuracy: 42.10838607594937
+Epoch: 5/30 Time in min: 0.017 accuracy: 44.38291139240506
+Epoch: 6/30 Time in min: 0.016 accuracy: 43.75
+Epoch: 7/30 Time in min: 0.016 accuracy: 44.97626582278481
+Epoch: 8/30 Time in min: 0.016 accuracy: 43.680775316455694
+Epoch: 9/30 Time in min: 0.016 accuracy: 45.52017405063291
+Epoch: 10/30 Time in min: 0.016 accuracy: 43.95767405063291
+Epoch: 11/30 Time in min: 0.016 accuracy: 44.7685917721519
+Epoch: 12/30 Time in min: 0.016 accuracy: 45.19382911392405
+Epoch: 13/30 Time in min: 0.016 accuracy: 47.26068037974683
+Epoch: 14/30 Time in min: 0.015 accuracy: 45.13449367088608
+Epoch: 15/30 Time in min: 0.015 accuracy: 46.024525316455694
+Epoch: 16/30 Time in min: 0.015 accuracy: 47.86392405063291
+Epoch: 17/30 Time in min: 0.015 accuracy: 47.76503164556962
+Epoch: 18/30 Time in min: 0.016 accuracy: 46.25197784810127
+Epoch: 19/30 Time in min: 0.016 accuracy: 46.578322784810126
+Epoch: 20/30 Time in min: 0.015 accuracy: 46.85522151898734
+Epoch: 21/30 Time in min: 0.016 accuracy: 48.22982594936709
+Epoch: 22/30 Time in min: 0.017 accuracy: 47.329905063291136
+Epoch: 23/30 Time in min: 0.017 accuracy: 48.9121835443038
+Epoch: 24/30 Time in min: 0.017 accuracy: 49.24841772151899
+Epoch: 25/30 Time in min: 0.017 accuracy: 50.00988924050633
+Epoch: 26/30 Time in min: 0.017 accuracy: 49.564873417721515
+Epoch: 27/30 Time in min: 0.017 accuracy: 48.170490506329116
+Epoch: 28/30 Time in min: 0.016 accuracy: 49.386867088607595
+Epoch: 29/30 Time in min: 0.016 accuracy: 50.20767405063291
+Epoch: 30/30 Time in min: 0.015 accuracy: 50.07911392405063
+loss: 0.007150944646542208 accuracy: 50.07911392405063
+total time 0.6661168575286865
+experiment number: 3 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.462 accuracy: 74.60443037974683
+Epoch: 2/30 Time in min: 0.457 accuracy: 79.80617088607595
+Epoch: 3/30 Time in min: 0.457 accuracy: 84.82001582278481
+Epoch: 4/30 Time in min: 0.461 accuracy: 86.90664556962025
+Epoch: 5/30 Time in min: 0.467 accuracy: 94.80814873417721
+Epoch: 6/30 Time in min: 0.474 accuracy: 95.41139240506328
+Epoch: 7/30 Time in min: 0.460 accuracy: 96.99367088607595
+Epoch: 8/30 Time in min: 0.467 accuracy: 97.4881329113924
+Epoch: 9/30 Time in min: 0.463 accuracy: 96.66732594936708
+Epoch: 10/30 Time in min: 0.479 accuracy: 97.1123417721519
+Epoch: 11/30 Time in min: 0.478 accuracy: 97.56724683544303
+Epoch: 12/30 Time in min: 0.480 accuracy: 95.35205696202532
+Epoch: 13/30 Time in min: 0.483 accuracy: 95.8564082278481
+Epoch: 14/30 Time in min: 0.478 accuracy: 97.13212025316456
+Epoch: 15/30 Time in min: 0.470 accuracy: 97.27056962025317
+Epoch: 16/30 Time in min: 0.463 accuracy: 97.46835443037975
+Epoch: 17/30 Time in min: 0.457 accuracy: 96.08386075949366
+Epoch: 18/30 Time in min: 0.478 accuracy: 97.68591772151899
+Epoch: 19/30 Time in min: 0.476 accuracy: 97.64636075949366
+Epoch: 20/30 Time in min: 0.476 accuracy: 97.15189873417721
+Epoch: 21/30 Time in min: 0.474 accuracy: 95.04549050632912
+Epoch: 22/30 Time in min: 0.469 accuracy: 97.8935917721519
+Epoch: 23/30 Time in min: 0.469 accuracy: 97.78481012658227
+Epoch: 24/30 Time in min: 0.474 accuracy: 97.56724683544303
+Epoch: 25/30 Time in min: 0.478 accuracy: 97.92325949367088
+Epoch: 26/30 Time in min: 0.464 accuracy: 97.85403481012658
+Epoch: 27/30 Time in min: 0.473 accuracy: 97.91337025316456
+Epoch: 28/30 Time in min: 0.467 accuracy: 97.1815664556962
+Epoch: 29/30 Time in min: 0.470 accuracy: 98.05181962025317
+Epoch: 30/30 Time in min: 0.474 accuracy: 97.27056962025317
+loss: 0.0003977249381265049 accuracy: 97.27056962025317
+total time 14.280727422237396
+experiment number: 3 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.027 accuracy: 25.375791139240505
+Epoch: 2/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 3/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 4/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 5/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 6/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 7/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 8/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 9/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 10/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 11/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 12/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 13/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 14/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 15/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 16/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 17/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 18/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 19/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 20/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 21/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 22/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 23/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 24/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 25/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 26/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 27/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 28/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 29/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 30/30 Time in min: 0.027 accuracy: 24.58465189873418
+loss: 0.010833018577268606 accuracy: 24.58465189873418
+total time 1.0198575218518575
+experiment number: 3 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.016 accuracy: 49.34731012658228
+Epoch: 2/30 Time in min: 0.016 accuracy: 24.99011075949367
+Epoch: 3/30 Time in min: 0.017 accuracy: 39.21083860759494
+Epoch: 4/30 Time in min: 0.017 accuracy: 38.70648734177215
+Epoch: 5/30 Time in min: 0.016 accuracy: 40.011867088607595
+Epoch: 6/30 Time in min: 0.016 accuracy: 42.78085443037975
+Epoch: 7/30 Time in min: 0.017 accuracy: 39.89319620253164
+Epoch: 8/30 Time in min: 0.016 accuracy: 40.99090189873418
+Epoch: 9/30 Time in min: 0.016 accuracy: 41.43591772151899
+Epoch: 10/30 Time in min: 0.016 accuracy: 41.416139240506325
+Epoch: 11/30 Time in min: 0.016 accuracy: 41.76226265822785
+Epoch: 12/30 Time in min: 0.016 accuracy: 42.434731012658226
+Epoch: 13/30 Time in min: 0.015 accuracy: 44.10601265822785
+Epoch: 14/30 Time in min: 0.015 accuracy: 43.36431962025317
+Epoch: 15/30 Time in min: 0.015 accuracy: 43.839003164556964
+Epoch: 16/30 Time in min: 0.015 accuracy: 45.085047468354425
+Epoch: 17/30 Time in min: 0.016 accuracy: 45.47072784810127
+Epoch: 18/30 Time in min: 0.015 accuracy: 45.401503164556964
+Epoch: 19/30 Time in min: 0.015 accuracy: 46.14319620253164
+Epoch: 20/30 Time in min: 0.015 accuracy: 47.39912974683544
+Epoch: 21/30 Time in min: 0.015 accuracy: 47.23101265822785
+Epoch: 22/30 Time in min: 0.015 accuracy: 47.19145569620253
+Epoch: 23/30 Time in min: 0.016 accuracy: 47.77492088607595
+Epoch: 24/30 Time in min: 0.016 accuracy: 48.299050632911396
+Epoch: 25/30 Time in min: 0.016 accuracy: 48.160601265822784
+Epoch: 26/30 Time in min: 0.016 accuracy: 48.734177215189874
+Epoch: 27/30 Time in min: 0.015 accuracy: 48.842958860759495
+Epoch: 28/30 Time in min: 0.016 accuracy: 47.873813291139236
+Epoch: 29/30 Time in min: 0.016 accuracy: 47.567246835443036
+Epoch: 30/30 Time in min: 0.016 accuracy: 48.002373417721515
+loss: 0.007141223153736018 accuracy: 48.002373417721515
+total time 0.6623880704243977
+experiment number: 4 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.471 accuracy: 72.2804588607595
+Epoch: 2/30 Time in min: 0.474 accuracy: 73.08148734177216
+Epoch: 3/30 Time in min: 0.468 accuracy: 75.3065664556962
+Epoch: 4/30 Time in min: 0.480 accuracy: 76.78006329113924
+Epoch: 5/30 Time in min: 0.477 accuracy: 86.07594936708861
+Epoch: 6/30 Time in min: 0.475 accuracy: 87.84612341772153
+Epoch: 7/30 Time in min: 0.476 accuracy: 94.35324367088607
+Epoch: 8/30 Time in min: 0.472 accuracy: 96.1629746835443
+Epoch: 9/30 Time in min: 0.477 accuracy: 95.53995253164557
+Epoch: 10/30 Time in min: 0.482 accuracy: 96.82555379746836
+Epoch: 11/30 Time in min: 0.485 accuracy: 94.71914556962025
+Epoch: 12/30 Time in min: 0.481 accuracy: 97.4189082278481
+Epoch: 13/30 Time in min: 0.474 accuracy: 96.96400316455697
+Epoch: 14/30 Time in min: 0.483 accuracy: 97.23101265822784
+Epoch: 15/30 Time in min: 0.480 accuracy: 97.29034810126582
+Epoch: 16/30 Time in min: 0.480 accuracy: 97.14200949367088
+Epoch: 17/30 Time in min: 0.474 accuracy: 96.57832278481013
+Epoch: 18/30 Time in min: 0.479 accuracy: 97.84414556962025
+Epoch: 19/30 Time in min: 0.473 accuracy: 97.45846518987342
+Epoch: 20/30 Time in min: 0.466 accuracy: 97.21123417721519
+Epoch: 21/30 Time in min: 0.474 accuracy: 97.71558544303798
+Epoch: 22/30 Time in min: 0.471 accuracy: 97.94303797468355
+Epoch: 23/30 Time in min: 0.460 accuracy: 97.86392405063292
+Epoch: 24/30 Time in min: 0.455 accuracy: 97.93314873417721
+Epoch: 25/30 Time in min: 0.474 accuracy: 97.94303797468355
+Epoch: 26/30 Time in min: 0.473 accuracy: 97.94303797468355
+Epoch: 27/30 Time in min: 0.472 accuracy: 97.45846518987342
+Epoch: 28/30 Time in min: 0.468 accuracy: 97.38924050632912
+Epoch: 29/30 Time in min: 0.475 accuracy: 97.57713607594937
+Epoch: 30/30 Time in min: 0.478 accuracy: 97.56724683544303
+loss: 0.0004493138806975378 accuracy: 97.56724683544303
+total time 14.415187831719717
+experiment number: 4 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.027 accuracy: 31.754351265822784
+Epoch: 2/30 Time in min: 0.027 accuracy: 47.8935917721519
+Epoch: 3/30 Time in min: 0.027 accuracy: 50.870253164556964
+Epoch: 4/30 Time in min: 0.027 accuracy: 47.389240506329116
+Epoch: 5/30 Time in min: 0.027 accuracy: 39.833860759493675
+Epoch: 6/30 Time in min: 0.027 accuracy: 42.65229430379747
+Epoch: 7/30 Time in min: 0.027 accuracy: 44.600474683544306
+Epoch: 8/30 Time in min: 0.027 accuracy: 44.026898734177216
+Epoch: 9/30 Time in min: 0.027 accuracy: 49.020965189873415
+Epoch: 10/30 Time in min: 0.027 accuracy: 46.390427215189874
+Epoch: 11/30 Time in min: 0.027 accuracy: 49.723101265822784
+Epoch: 12/30 Time in min: 0.027 accuracy: 48.55617088607595
+Epoch: 13/30 Time in min: 0.027 accuracy: 47.77492088607595
+Epoch: 14/30 Time in min: 0.027 accuracy: 47.379351265822784
+Epoch: 15/30 Time in min: 0.027 accuracy: 48.07159810126582
+Epoch: 16/30 Time in min: 0.027 accuracy: 48.427610759493675
+Epoch: 17/30 Time in min: 0.027 accuracy: 48.80340189873418
+Epoch: 18/30 Time in min: 0.027 accuracy: 51.94818037974683
+Epoch: 19/30 Time in min: 0.027 accuracy: 49.960443037974684
+Epoch: 20/30 Time in min: 0.027 accuracy: 48.37816455696203
+Epoch: 21/30 Time in min: 0.027 accuracy: 50.1681170886076
+Epoch: 22/30 Time in min: 0.027 accuracy: 51.61194620253164
+Epoch: 23/30 Time in min: 0.027 accuracy: 50.68235759493671
+Epoch: 24/30 Time in min: 0.027 accuracy: 51.43393987341772
+Epoch: 25/30 Time in min: 0.027 accuracy: 50.74169303797469
+Epoch: 26/30 Time in min: 0.027 accuracy: 51.21637658227848
+Epoch: 27/30 Time in min: 0.027 accuracy: 49.208860759493675
+Epoch: 28/30 Time in min: 0.027 accuracy: 48.348496835443036
+Epoch: 29/30 Time in min: 0.027 accuracy: 48.79351265822785
+Epoch: 30/30 Time in min: 0.027 accuracy: 50.49446202531646
+loss: 0.005665884948559577 accuracy: 50.49446202531646
+total time 1.0138204495112102
+experiment number: 4 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.015 accuracy: 35.02768987341772
+Epoch: 2/30 Time in min: 0.015 accuracy: 34.305775316455694
+Epoch: 3/30 Time in min: 0.016 accuracy: 39.50751582278481
+Epoch: 4/30 Time in min: 0.016 accuracy: 32.84216772151899
+Epoch: 5/30 Time in min: 0.016 accuracy: 35.13647151898734
+Epoch: 6/30 Time in min: 0.016 accuracy: 41.07001582278481
+Epoch: 7/30 Time in min: 0.015 accuracy: 40.60522151898734
+Epoch: 8/30 Time in min: 0.015 accuracy: 41.56447784810127
+Epoch: 9/30 Time in min: 0.016 accuracy: 41.69303797468354
+Epoch: 10/30 Time in min: 0.015 accuracy: 42.098496835443036
+Epoch: 11/30 Time in min: 0.015 accuracy: 43.374208860759495
+Epoch: 12/30 Time in min: 0.016 accuracy: 43.38409810126582
+Epoch: 13/30 Time in min: 0.016 accuracy: 42.701740506329116
+Epoch: 14/30 Time in min: 0.016 accuracy: 42.93908227848101
+Epoch: 15/30 Time in min: 0.015 accuracy: 43.314873417721515
+Epoch: 16/30 Time in min: 0.015 accuracy: 43.403876582278485
+Epoch: 17/30 Time in min: 0.015 accuracy: 43.967563291139236
+Epoch: 18/30 Time in min: 0.015 accuracy: 44.53125
+Epoch: 19/30 Time in min: 0.015 accuracy: 44.185126582278485
+Epoch: 20/30 Time in min: 0.015 accuracy: 44.699367088607595
+Epoch: 21/30 Time in min: 0.015 accuracy: 44.729034810126585
+Epoch: 22/30 Time in min: 0.015 accuracy: 44.81803797468354
+Epoch: 23/30 Time in min: 0.015 accuracy: 44.442246835443036
+Epoch: 24/30 Time in min: 0.015 accuracy: 44.462025316455694
+Epoch: 25/30 Time in min: 0.015 accuracy: 45.42128164556962
+Epoch: 26/30 Time in min: 0.015 accuracy: 45.539952531645575
+Epoch: 27/30 Time in min: 0.015 accuracy: 45.25316455696203
+Epoch: 28/30 Time in min: 0.015 accuracy: 46.66732594936709
+Epoch: 29/30 Time in min: 0.015 accuracy: 44.59058544303797
+Epoch: 30/30 Time in min: 0.015 accuracy: 45.43117088607595
+loss: 722339.4021711834 accuracy: 45.43117088607595
+total time 0.6470167517662049
+experiment number: 5 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.477 accuracy: 75.92958860759494
+Epoch: 2/30 Time in min: 0.478 accuracy: 75.13844936708861
+Epoch: 3/30 Time in min: 0.476 accuracy: 79.43037974683544
+Epoch: 4/30 Time in min: 0.475 accuracy: 77.39319620253164
+Epoch: 5/30 Time in min: 0.470 accuracy: 82.5059335443038
+Epoch: 6/30 Time in min: 0.469 accuracy: 88.1131329113924
+Epoch: 7/30 Time in min: 0.481 accuracy: 90.00197784810126
+Epoch: 8/30 Time in min: 0.467 accuracy: 93.9181170886076
+Epoch: 9/30 Time in min: 0.475 accuracy: 95.53995253164557
+Epoch: 10/30 Time in min: 0.482 accuracy: 95.97507911392405
+Epoch: 11/30 Time in min: 0.477 accuracy: 96.03441455696202
+Epoch: 12/30 Time in min: 0.478 accuracy: 97.02333860759494
+Epoch: 13/30 Time in min: 0.481 accuracy: 97.01344936708861
+Epoch: 14/30 Time in min: 0.481 accuracy: 97.08267405063292
+Epoch: 15/30 Time in min: 0.477 accuracy: 96.95411392405063
+Epoch: 16/30 Time in min: 0.463 accuracy: 97.08267405063292
+Epoch: 17/30 Time in min: 0.474 accuracy: 96.61787974683544
+Epoch: 18/30 Time in min: 0.478 accuracy: 97.56724683544303
+Epoch: 19/30 Time in min: 0.479 accuracy: 96.69699367088607
+Epoch: 20/30 Time in min: 0.483 accuracy: 96.35087025316456
+Epoch: 21/30 Time in min: 0.468 accuracy: 97.45846518987342
+Epoch: 22/30 Time in min: 0.466 accuracy: 97.68591772151899
+Epoch: 23/30 Time in min: 0.479 accuracy: 97.69580696202532
+Epoch: 24/30 Time in min: 0.479 accuracy: 97.46835443037975
+Epoch: 25/30 Time in min: 0.479 accuracy: 97.4189082278481
+Epoch: 26/30 Time in min: 0.478 accuracy: 97.55735759493672
+Epoch: 27/30 Time in min: 0.472 accuracy: 97.7254746835443
+Epoch: 28/30 Time in min: 0.475 accuracy: 97.90348101265823
+Epoch: 29/30 Time in min: 0.467 accuracy: 97.69580696202532
+Epoch: 30/30 Time in min: 0.465 accuracy: 97.19145569620254
+loss: 0.00042009959632863844 accuracy: 97.19145569620254
+total time 14.43117828766505
+experiment number: 5 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.027 accuracy: 51.58227848101266
+Epoch: 2/30 Time in min: 0.027 accuracy: 50.78125
+Epoch: 3/30 Time in min: 0.027 accuracy: 49.179193037974684
+Epoch: 4/30 Time in min: 0.027 accuracy: 52.87776898734177
+Epoch: 5/30 Time in min: 0.027 accuracy: 51.69106012658228
+Epoch: 6/30 Time in min: 0.027 accuracy: 49.89121835443038
+Epoch: 7/30 Time in min: 0.027 accuracy: 49.545094936708864
+Epoch: 8/30 Time in min: 0.027 accuracy: 51.70094936708861
+Epoch: 9/30 Time in min: 0.027 accuracy: 51.03837025316456
+Epoch: 10/30 Time in min: 0.027 accuracy: 43.819224683544306
+Epoch: 11/30 Time in min: 0.027 accuracy: 51.05814873417721
+Epoch: 12/30 Time in min: 0.027 accuracy: 52.93710443037975
+Epoch: 13/30 Time in min: 0.027 accuracy: 50.44501582278481
+Epoch: 14/30 Time in min: 0.027 accuracy: 54.15348101265823
+Epoch: 15/30 Time in min: 0.027 accuracy: 50.35601265822785
+Epoch: 16/30 Time in min: 0.027 accuracy: 53.82713607594937
+Epoch: 17/30 Time in min: 0.027 accuracy: 32.13014240506329
+Epoch: 18/30 Time in min: 0.027 accuracy: 43.008306962025316
+Epoch: 19/30 Time in min: 0.027 accuracy: 45.62895569620253
+Epoch: 20/30 Time in min: 0.027 accuracy: 47.458465189873415
+Epoch: 21/30 Time in min: 0.027 accuracy: 44.56091772151899
+Epoch: 22/30 Time in min: 0.027 accuracy: 49.129746835443036
+Epoch: 23/30 Time in min: 0.027 accuracy: 49.66376582278481
+Epoch: 24/30 Time in min: 0.027 accuracy: 46.469541139240505
+Epoch: 25/30 Time in min: 0.027 accuracy: 50.2373417721519
+Epoch: 26/30 Time in min: 0.027 accuracy: 48.05181962025317
+Epoch: 27/30 Time in min: 0.027 accuracy: 49.57476265822785
+Epoch: 28/30 Time in min: 0.027 accuracy: 49.94066455696203
+Epoch: 29/30 Time in min: 0.027 accuracy: 50.11867088607595
+Epoch: 30/30 Time in min: 0.027 accuracy: 49.64398734177215
+loss: 0.006229425126191558 accuracy: 49.64398734177215
+total time 1.0240547895431518
+experiment number: 5 network type: Fully_Connected_NN
+Epoch: 1/30 Time in min: 0.016 accuracy: 39.73496835443038
+Epoch: 2/30 Time in min: 0.015 accuracy: 39.63607594936709
+Epoch: 3/30 Time in min: 0.015 accuracy: 39.41851265822785
+Epoch: 4/30 Time in min: 0.015 accuracy: 41.960047468354425
+Epoch: 5/30 Time in min: 0.015 accuracy: 43.344541139240505
+Epoch: 6/30 Time in min: 0.015 accuracy: 44.986155063291136
+Epoch: 7/30 Time in min: 0.015 accuracy: 47.29034810126582
+Epoch: 8/30 Time in min: 0.015 accuracy: 47.49802215189873
+Epoch: 9/30 Time in min: 0.015 accuracy: 48.05181962025317
+Epoch: 10/30 Time in min: 0.015 accuracy: 48.38805379746836
+Epoch: 11/30 Time in min: 0.015 accuracy: 49.15941455696203
+Epoch: 12/30 Time in min: 0.015 accuracy: 50.2373417721519
+Epoch: 13/30 Time in min: 0.015 accuracy: 50.42523734177215
+Epoch: 14/30 Time in min: 0.016 accuracy: 50.53401898734177
+Epoch: 15/30 Time in min: 0.016 accuracy: 50.27689873417721
+Epoch: 16/30 Time in min: 0.016 accuracy: 46.5684335443038
+Epoch: 17/30 Time in min: 0.016 accuracy: 48.575949367088604
+Epoch: 18/30 Time in min: 0.016 accuracy: 49.208860759493675
+Epoch: 19/30 Time in min: 0.015 accuracy: 50.09889240506329
+Epoch: 20/30 Time in min: 0.015 accuracy: 49.772547468354425
+Epoch: 21/30 Time in min: 0.015 accuracy: 49.26819620253164
+Epoch: 22/30 Time in min: 0.015 accuracy: 50.88014240506329
+Epoch: 23/30 Time in min: 0.015 accuracy: 51.27571202531646
+Epoch: 24/30 Time in min: 0.015 accuracy: 50.78125
+Epoch: 25/30 Time in min: 0.015 accuracy: 45.589398734177216
+Epoch: 26/30 Time in min: 0.015 accuracy: 46.548655063291136
+Epoch: 27/30 Time in min: 0.015 accuracy: 49.03085443037975
+Epoch: 28/30 Time in min: 0.015 accuracy: 51.02848101265823
+Epoch: 29/30 Time in min: 0.015 accuracy: 50.84058544303798
+Epoch: 30/30 Time in min: 0.015 accuracy: 51.30537974683544
+loss: 789.8864724194584 accuracy: 51.30537974683544
+total time 0.6469192266464233
+experiment number: 6 network type: N_layer_GRU
+Epoch: 1/30 Time in min: 0.483 accuracy: 74.61431962025317
+Epoch: 2/30 Time in min: 0.477 accuracy: 79.41060126582279
+Epoch: 3/30 Time in min: 0.475 accuracy: 80.49841772151899
+Epoch: 4/30 Time in min: 0.471 accuracy: 80.68631329113924
+Epoch: 5/30 Time in min: 0.480 accuracy: 86.58030063291139
+Epoch: 6/30 Time in min: 0.483 accuracy: 87.64833860759494
+Epoch: 7/30 Time in min: 0.484 accuracy: 94.00712025316456
+Epoch: 8/30 Time in min: 0.473 accuracy: 95.41139240506328
+Epoch: 9/30 Time in min: 0.475 accuracy: 96.10363924050634
+Epoch: 10/30 Time in min: 0.476 accuracy: 96.85522151898735
+Epoch: 11/30 Time in min: 0.476 accuracy: 96.71677215189874
+Epoch: 12/30 Time in min: 0.476 accuracy: 96.06408227848101
+Epoch: 13/30 Time in min: 0.477 accuracy: 97.36946202531645
+Epoch: 14/30 Time in min: 0.476 accuracy: 97.10245253164557
+Epoch: 15/30 Time in min: 0.469 accuracy: 97.36946202531645
+Epoch: 16/30 Time in min: 0.474 accuracy: 97.31012658227847
+Epoch: 17/30 Time in min: 0.477 accuracy: 96.47943037974683
+Epoch: 18/30 Time in min: 0.472 accuracy: 97.74525316455697
+Epoch: 19/30 Time in min: 0.476 accuracy: 97.22112341772153
+Epoch: 20/30 Time in min: 0.471 accuracy: 97.79469936708861
+Epoch: 21/30 Time in min: 0.475 accuracy: 96.54865506329115
+Epoch: 22/30 Time in min: 0.477 accuracy: 97.42879746835443
+Epoch: 23/30 Time in min: 0.480 accuracy: 97.54746835443038
+Epoch: 24/30 Time in min: 0.478 accuracy: 97.46835443037975
+Epoch: 25/30 Time in min: 0.480 accuracy: 97.55735759493672
+Epoch: 26/30 Time in min: 0.478 accuracy: 97.76503164556962
+Epoch: 27/30 Time in min: 0.479 accuracy: 97.31012658227847
+Epoch: 28/30 Time in min: 0.475 accuracy: 94.97626582278481
+Epoch: 29/30 Time in min: 0.475 accuracy: 97.07278481012658
+Epoch: 30/30 Time in min: 0.477 accuracy: 97.61669303797468
+loss: 0.0003296751893697236 accuracy: 97.61669303797468
+total time 14.478570119539897
+experiment number: 6 network type: Convolutional_NN
+Epoch: 1/30 Time in min: 0.027 accuracy: 27.12618670886076
+Epoch: 2/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 3/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 4/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 5/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 6/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 7/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 8/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 9/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 10/30 Time in min: 0.027 accuracy: 24.75276898734177
+Epoch: 11/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 12/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 13/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 14/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 15/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 16/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 17/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 18/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 19/30 Time in min: 0.027 accuracy: 24.4560917721519
+Epoch: 20/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 21/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 22/30 Time in min: 0.027 accuracy: 24.75276898734177
+Epoch: 23/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 24/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 25/30 Time in min: 0.027 accuracy: 25.09889240506329
+Epoch: 26/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 27/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 28/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 29/30 Time in min: 0.027 accuracy: 24.58465189873418
+Epoch: 30/30 

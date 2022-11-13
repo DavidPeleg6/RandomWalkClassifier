@@ -1,0 +1,11 @@
+{
+ "delta_t": 0.05,
+ "diffusion const": "variable",
+ "length": 100,
+ "names": [
+  "CTRW",
+  "Levy",
+  "Brownian",
+  "FBM"
+ ]
+}
